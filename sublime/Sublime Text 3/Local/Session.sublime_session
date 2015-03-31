@@ -1,0 +1,3158 @@
+{
+	"folder_history":
+	[
+		"/C/workspace/twipple_pc"
+	],
+	"last_version": 3065,
+	"last_window_id": 7,
+	"log_indexing": false,
+	"settings":
+	{
+		"new_window_height": 800.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"col",
+						"columnId"
+					],
+					[
+						"tar",
+						"target"
+					],
+					[
+						"fis",
+						"firstColumn"
+					],
+					[
+						"co",
+						"columns"
+					],
+					[
+						"secon",
+						"secondColumn"
+					],
+					[
+						"firs",
+						"firstColumn"
+					],
+					[
+						"mar",
+						"margin-left"
+					],
+					[
+						"fon",
+						"font-size"
+					],
+					[
+						"pa",
+						"padding-top"
+					],
+					[
+						"time",
+						"timeline"
+					],
+					[
+						"thu",
+						"thumbnailUrls"
+					],
+					[
+						"stat",
+						"statusData"
+					],
+					[
+						"dm",
+						"dmmode"
+					],
+					[
+						"line",
+						"line-height"
+					],
+					[
+						"twi",
+						"twitterId"
+					],
+					[
+						"mai",
+						"mail_to"
+					],
+					[
+						"Fro",
+						"fromObject"
+					],
+					[
+						"colu",
+						"columnPositionRadioOneColumnWarning"
+					],
+					[
+						"s",
+						"size"
+					],
+					[
+						"intro",
+						"introflag"
+					],
+					[
+						"current",
+						"currentExtraSettings"
+					],
+					[
+						"type",
+						"typeof"
+					],
+					[
+						"Twipple",
+						"TwippleUtils"
+					],
+					[
+						"wi",
+						"width"
+					],
+					[
+						"tex",
+						"text-align"
+					],
+					[
+						"home",
+						"home_timeline"
+					],
+					[
+						"data",
+						"dataArray"
+					],
+					[
+						"val",
+						"values"
+					],
+					[
+						"thumb",
+						"thumbnailUrl"
+					],
+					[
+						"in",
+						"inline"
+					],
+					[
+						"sear",
+						"search_timeline"
+					],
+					[
+						"change",
+						"changeColorCustom"
+					],
+					[
+						"li",
+						"light"
+					],
+					[
+						"color",
+						"colorEditArea"
+					],
+					[
+						"da",
+						"datas"
+					],
+					[
+						"fi",
+						"filters"
+					],
+					[
+						"fil",
+						"filter"
+					],
+					[
+						"us",
+						"user"
+					]
+				]
+			},
+			"build_system": "",
+			"command_palette":
+			{
+				"height": 88.0,
+				"selected_items":
+				[
+					[
+						"json",
+						"Pretty JSON: Format (Pretty Print) JSON"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"packa",
+						"Preferences: Package Control Settings – User"
+					],
+					[
+						"pack",
+						"Preferences: Package Control Settings – User"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"sql",
+						"Set Syntax: SQL"
+					],
+					[
+						"mark",
+						"Markdown Preview: Preview in Browser"
+					]
+				],
+				"width": 480.0
+			},
+			"console":
+			{
+				"height": 126.0,
+				"history":
+				[
+					"import urllib.request,os,hashlib; h = '2deb499853c4371624f5a07e27c334aa' + 'bf8c4e67d14fb0525ba4f89698a6d7e1'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+					"import urllib.request,os,hashlib; h = ‘7183a2d3e96f11eeadd761d777e62404e330c659d4bb41d3bdf022e94cab3cd0’; pf = ‘Package Control.sublime-package’; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( ‘http://sublime.wbond.net/’ + pf.replace(’ ‘, ‘%20’)).read(); dh = hashlib.sha256(by).hexdigest(); print(‘Error validating download (got %s instead of %s), please try manual install’ % (dh, h)) if dh != h else open(os.path.join( ipp, pf), ‘wb’ ).write(by)",
+					"import urllib.request,os,hashlib; h = '2deb499853c4371624f5a07e27c334aa' + 'bf8c4e67d14fb0525ba4f89698a6d7e1'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/C/workspace/twipple_pc/htdocs/template/dm_newestmessage_reload_marker.hogan",
+				"/C/workspace/twipple_pc/htdocs/js/twipple.Retweet.js",
+				"/C/workspace/twipple_pc/htdocs/js/widget/v2/rt.js",
+				"/C/workspace/twipple_pc/htdocs/js/twipple.Curation.Custom.js",
+				"/C/workspace/twipple_pc/webapps/src/main/webapp/jsp/setting_tablet.jsp",
+				"/C/workspace/twipple_pc/webapps/target/classes/vtl/ga/twipple_pc.vm",
+				"/C/workspace/twipple_pc/htdocs/js/v2/twipple.js",
+				"/C/workspace/individual_sekine_toru/readme.md",
+				"/C/workspace/twipple_pc/.gitignore",
+				"/C/workspace/individual_sekine_toru/.gitignore",
+				"/C/downloads/theme-9358.xml",
+				"/C/workspace/individual_sekine_toru/FunctionStudy/memo.md",
+				"/C/workspace/individual_sekine_toru/C++/FunctionStudy/memo.md",
+				"/C/workspace/individual_sekine_toru/Loop/memo.md",
+				"/C/workspace/individual_sekine_toru/Array/memo.md",
+				"/C/workspace/individual_sekine_toru/Class/memo.md",
+				"/C/workspace/individual_sekine_toru/Pointer/memo.md",
+				"/C/workspace/individual_sekine_toru/Charactors/memo.md",
+				"/C/workspace/twipple_pc/webapps/src/main/webapp/jsp/twipple.jsp",
+				"/C/Users/sekine/AppData/Local/Temp/scp10359/home/ap/bsd1555/contents/twipple_stream/bin/twipple.properties",
+				"/C/Users/sekine/AppData/Local/Temp/scp17801/home/ap/bsd1555/contents/twipple_stream/bin/user_stream.sh",
+				"/C/workspace/individual_sekine_toru/Reference/memo.md",
+				"/C/workspace/individual_sekine_toru/Struct/memo.md",
+				"/C/Users/sekine/AppData/Local/Temp/scp00796/home/ap/bsd1555/contents/release/z/20150305_design_renewal/webapps/WEB-INF/classes/vtl/header.vm",
+				"/C/Users/sekine/AppData/Local/Temp/scp01146/home/ap/bsd1555/contents/release/z/20150304_design_renewal_03/webapps/WEB-INF/classes/vtl/header.vm",
+				"/C/Users/sekine/AppData/Local/Temp/scp17417/home/ap/bsd1555/contents/twipple_stream/bin/stream_trigger.sh",
+				"/C/Users/sekine/AppData/Local/Temp/scp27715/home/ap/bsd1555/contents/release/z/20150305_design_renewal/htdocs/js/twipple.joined.min.js",
+				"/C/workspace/twipple_pc/data/stream/que_waiting/155471104",
+				"/C/workspace/twipple_pc/htdocs/template/v2/common_tweet_action_menu_v2.hogan",
+				"/C/workspace/individual_sekine_toru/conditionalBranch/memo.md",
+				"/C/workspace/individual_sekine_toru/HelloWorld/.cproject",
+				"/C/Users/sekine/AppData/Local/Temp/scp29556/home/ap/bsd1555/contents/data/v2_white_list.txt",
+				"/C/Users/sekine/AppData/Local/Temp/scp18147/home/ap/bsd1555/contents/bin/log_rotate.sh",
+				"/C/workspace/twipple_pc/webapps/src/main/resources/twipple.properties",
+				"/C/workspace/twipple_pc/pom.xml",
+				"/C/workspace/twipple_pc/htdocs/js/twipple.js",
+				"/C/workspace/twipple_pc/script/twineta_widgetview.sh",
+				"/C/workspace/twipple_pc/webapps/src/main/webapp/jsp/twipple_v2.jsp",
+				"/C/workspace/twipple_pc/docs/twipple_pc_renewal_integrated_test_spec_20120321.xls",
+				"/C/Users/sekine/AppData/Local/Temp/scp32542/home/ap/bsd1555/contents/release/z/20141212_reduce_six_servers/webapps/WEB-INF/classes/vtl/scripts_twipple.vm",
+				"/C/workspace/individual_sekine_toru/conditionalBranch/.gitignore",
+				"/C/workspace/individual_sekine_toru/HelloWorld/.gitignore",
+				"/C/workspace/twipple_pc/htdocs/js/v2/userpage/twipple.userpage.General.js",
+				"/C/workspace/twipple_pc/bin/z_pika6_jscss_compressor_sekine.sh",
+				"/C/workspace/twipple_pc/htdocs/js/v2/twipple.Curation.js",
+				"/C/workspace/twipple_pc/htdocs/js/userpage/twipple.userpage.General.js",
+				"/C/workspace/twipple_pc/htdocs/js/twipple.Custom.js",
+				"/C/workspace/twipple_pc/htdocs/js/twipple.Curation.js",
+				"/C/workspace/twipple_pc/htdocs/js/tablet/userpage/twipple.userpage.General.js",
+				"/C/workspace/twipple_pc/htdocs/js/tablet/twipple.Curation.js",
+				"/C/workspace/twipple_pc/htdocs/js/sp/userpage/twipple.userpage.General.js",
+				"/C/workspace/twipple_pc/htdocs/js/sp/twipple.js",
+				"/C/workspace/twipple_pc/htdocs/js/sp/twipple.Custom.js",
+				"/C/workspace/twipple_pc/htdocs/js/sp/twipple.Curation.js",
+				"/C/workspace/twipple_pc/htdocs/css/v2/style.css",
+				"/C/workspace/twipple_pc/webapps/src/main/resources/vtl/v2/intro.vm",
+				"/C/workspace/twipple_pc/htdocs/template/v2/home_timeline_streaming_v2.hogan",
+				"/C/workspace/twipple_pc/htdocs/template/v2/dm_conversation_v2.hogan",
+				"/C/workspace/twipple_pc/htdocs/template/v2/dm_conversation_streaming_v2.hogan",
+				"/C/workspace/twipple_pc/htdocs/template/v2/mention_timeline_streaming_v2.hogan",
+				"/C/workspace/twipple_pc/htdocs/template/v2/dm_firstmessage_streaming_v2.hogan",
+				"/C/workspace/twipple_pc/htdocs/template/v2/home_timeline_v2.hogan",
+				"/C/workspace/twipple_pc/htdocs/css/v2/intro_style.css",
+				"/C/workspace/twipple_pc/htdocs/js/v2/twipple.Intro.js",
+				"/C/workspace/twipple_pc/webapps/src/main/resources/vtl/v2/fixed_header.vm",
+				"/C/workspace/twipple_pc/htdocs/js/v2/twipple.MultiAccount.js",
+				"/C/workspace/twipple_pc/htdocs/js/v2/twipple.List.js",
+				"/C/Users/sekine/AppData/Local/Temp/scp35563/home/ap/bsd1555/contents/twipple_stream/bin/stream_trigger.sh",
+				"/C/Users/sekine/AppData/Local/Temp/scp36986/home/ap/bsd1555/contents/twipple_stream/bin/user_stream2.sh",
+				"/C/Users/sekine/AppData/Local/Temp/scp36083/home/ap/bsd1555/contents/twipple_stream/bin/user_stream.sh",
+				"/C/workspace/twipple_pc/htdocs/js/tablet/twipple.js",
+				"/C/workspace/twipple_pc/htdocs/js/twipple.Home.js",
+				"/C/workspace/twipple_pc/htdocs/js/v2/twipple.DirectMessage.js",
+				"/C/workspace/twipple_pc/htdocs/js/v2/twipple.Home.js",
+				"/C/workspace/twipple_pc/htdocs/js/v2/twipple.Retweet.js",
+				"/C/workspace/twipple_pc/htdocs/js/v2/twipple.Mention.js",
+				"/C/workspace/twipple_pc/htdocs/js/v2/twipple.Search.js",
+				"/C/workspace/twipple_pc/.idea/vcs.xml",
+				"/C/workspace/twipple_pc/bin/hulk_v2.sh",
+				"/C/workspace/twipple_pc/htdocs/template/v2/search_article_v2.hogan",
+				"/C/workspace/twipple_pc/htdocs/js/widget/v2/movie.js",
+				"/C/workspace/twipple_pc/htdocs/js/widget/hotword.js",
+				"/C/workspace/twipple_pc/htdocs/js/templates/pc/v2/tmpl_dm_conversation_streaming_v2.js",
+				"/C/workspace/twipple_pc/htdocs/js/templates/pc/v2/tmpl_dm_firstmessage_streaming_v2.js",
+				"/C/workspace/twipple_pc/htdocs/js/templates/pc/v2/tmpl_home_timeline_streaming_v2.js",
+				"/C/workspace/twipple_pc/htdocs/js/templates/pc/v2/tmpl_mention_timeline_streaming_v2.js",
+				"/C/workspace/twipple_pc/bin/stream_trigger.sh",
+				"/C/workspace/twipple_pc/htdocs/js/v2/twipple.Streaming.js",
+				"/C/workspace/twipple_pc/htdocs/js/v2/intro.1.0.0.js",
+				"/C/workspace/twipple_pc/webapps/target/classes/vtl/v2/intro.vm",
+				"/C/workspace/twipple_pc/htdocs/css/v2/introjs.css",
+				"/C/workspace/twipple_pc/data/v2_white_id_range.txt",
+				"/C/workspace/twipple_pc/htdocs/css/intro_style.css",
+				"/C/workspace/twipple_pc/webapps/src/main/java/jp/co/biglobe/twipple/servlet/IntroSettingServlet.java",
+				"/C/workspace/twipple_pc/htdocs/js/twipple.Intro.js",
+				"/C/workspace/twipple_pc/htdocs/js/twipple.InfoNotification.js",
+				"/C/workspace/twipple_pc/bin/install.cmd",
+				"/C/workspace/twipple_pc/htdocs/intro.html",
+				"/C/workspace/twipple_pc/twipple-core/src/main/java/jp/co/biglobe/twipple/db/exception/VoteException.java",
+				"/C/workspace/twipple_pc/data/v2_white_list.txt",
+				"/C/workspace/twipple_pc/webapps/target/classes/vtl/ga/twipple_tablet.vm",
+				"/C/workspace/twipple_pc/htdocs/js/tablet/setting.js",
+				"/C/workspace/twipple_pc/htdocs/unlogin/tablet_index.html",
+				"/C/workspace/twipple_pc/htdocs/js/tablet/twipple.TweetArea.js",
+				"/C/workspace/twipple_pc/htdocs/js/v2/twipple.AsyncWidgetsLoader.js",
+				"/C/workspace/twipple_pc/htdocs/js/tablet/twipple.WordsOfInterest.js",
+				"/C/workspace/twipple_pc/htdocs/js/tablet/twipple.Home.js",
+				"/C/workspace/twipple_pc/webapps/src/main/webapp/jsp/setting_v2.jsp",
+				"/C/workspace/twipple_pc/webapps/src/main/webapp/jsp/userpage_v2.jsp",
+				"/C/workspace/twipple_pc/htdocs/css/v2/footer.css",
+				"/C/workspace/twipple_pc/htdocs/css/v2/userpage/style.css",
+				"/C/workspace/twipple_pc/htdocs/css/v2/blue/color.css",
+				"/C/workspace/twipple_pc/htdocs/css/v2/blue/color_setting.css",
+				"/C/workspace/twipple_pc/htdocs/css/v2/black2/color.css",
+				"/C/workspace/twipple_pc/htdocs/css/v2/black2/color_setting.css",
+				"/C/workspace/twipple_pc/htdocs/css/v2/blue2/color.css",
+				"/C/workspace/twipple_pc/htdocs/css/v2/blue2/color_setting.css",
+				"/C/workspace/twipple_pc/htdocs/css/v2/brown2/color.css",
+				"/C/workspace/twipple_pc/htdocs/css/v2/brown2/color_setting.css",
+				"/C/workspace/twipple_pc/htdocs/css/v2/green/color.css",
+				"/C/workspace/twipple_pc/htdocs/css/v2/green/color_setting.css",
+				"/C/workspace/twipple_pc/htdocs/css/v2/mint/color.css",
+				"/C/workspace/twipple_pc/htdocs/css/v2/mint/color_setting.css",
+				"/C/workspace/twipple_pc/htdocs/css/v2/orange2/color.css",
+				"/C/workspace/twipple_pc/htdocs/css/v2/orange2/color_setting.css",
+				"/C/workspace/twipple_pc/htdocs/css/v2/pink/color.css",
+				"/C/workspace/twipple_pc/htdocs/css/v2/pink/color_setting.css",
+				"/C/workspace/twipple_pc/htdocs/css/v2/purple2/color.css"
+			],
+			"find":
+			{
+				"height": 38.0
+			},
+			"find_in_files":
+			{
+				"height": 90.0,
+				"where_history":
+				[
+					"C:\\workspace\\twipple_pc\\,*.vm,*.js,*.java,-*.joined*.js,-tmpl*.js",
+					"C:\\workspace\\twipple_pc\\,*.java,-*.joined*.js,-tmpl*.js",
+					"C:\\workspace\\twipple_pc\\,*.vm,*.js,*.java,-*.joined*.js,-tmpl*.js",
+					"C:\\workspace\\twipple_pc\\,*.vm,*.js,-*.joined*.js,-tmpl*.js",
+					"C:\\workspace\\twipple_pc\\,*",
+					"C:\\workspace\\twipple_pc\\,*.vm,*.jsp,-*.joined*.js,-tmpl*.js",
+					"C:\\workspace\\twipple_pc\\htdocs\\template\\v2",
+					"C:\\workspace\\twipple_pc\\htdocs\\js\\v2,*.js,*.css,-*.joined*.js,-tmpl*.js,-v2",
+					"C:\\workspace\\twipple_pc\\htdocs\\js\\,*.js,*.css,-*.joined*.js,-tmpl*.js,-v2",
+					"C:\\workspace\\twipple_pc\\htdocs\\js\\v2,*.js,*.css,-*.joined*.js,-tmpl*.js,-v2",
+					"C:\\workspace\\twipple_pc\\htdocs\\js\\tablet,*.js,*.css,-*.joined*.js,-tmpl*.js,-v2",
+					"C:\\workspace\\twipple_pc\\htdocs\\js\\v2,*.js,*.css,-*.joined*.js,-tmpl*.js,-v2",
+					"C:\\workspace\\twipple_pc\\htdocs\\js\\tablet,*.js,*.css,-*.joined*.js,-tmpl*.js,-v2",
+					"C:\\workspace\\twipple_pc\\htdocs\\js\\v2,*.js,*.css,-*.joined*.js,-tmpl*.js,-v2",
+					"C:\\workspace\\twipple_pc\\htdocs\\js\\tablet,*.js,*.css,-*.joined*.js,-tmpl*.js,-v2",
+					"C:\\workspace\\twipple_pc\\htdocs\\template\\v2",
+					"C:\\workspace\\twipple_pc\\,*.vm,*.jsp,-*.joined*.js,-tmpl*.js",
+					"C:\\workspace\\twipple_pc\\htdocs\\template\\v2",
+					"C:\\workspace\\twipple_pc\\htdocs\\js\\v2,*.js,*.css,-*.joined*.js,-tmpl*.js,-v2",
+					"C:\\workspace\\twipple_pc\\htdocs\\js,*.js,*.css,-*.joined*.js,-tmpl*.js,-v2",
+					"C:\\workspace\\twipple_pc\\htdocs\\js\\v2,*.js,*.css,-*.joined*.js,-tmpl*.js,-v2",
+					"C:\\workspace\\twipple_pc\\,*.vm,-*.joined*.js,-tmpl*.js",
+					"C:\\workspace\\twipple_pc\\,*.vm,*.jsp,-*.joined*.js,-tmpl*.js",
+					"C:\\workspace\\twipple_pc\\htdocs\\js\\v2,*.js,*.css,-*.joined*.js,-tmpl*.js,-v2",
+					"C:\\workspace\\twipple_pc\\htdocs\\js\\,*.js,*.css,-*.joined*.js,-tmpl*.js,-v2,-*min.js",
+					"C:\\workspace\\twipple_pc\\htdocs\\template\\v2",
+					"C:\\workspace\\twipple_pc\\htdocs\\css\\v2\\,*.css",
+					"C:\\workspace\\twipple_pc\\htdocs\\css\\,*.css",
+					"C:\\workspace\\twipple_pc\\htdocs\\js\\,*.js,*.css,-*.joined*.js,-tmpl*.js,-v2,-*min.js",
+					"C:\\workspace\\twipple_pc\\htdocs\\js\\v2,*.js,*.css,-*.joined*.js,-tmpl*.js,-v2",
+					"C:\\workspace\\twipple_pc\\htdocs\\template\\v2",
+					"C:\\workspace\\twipple_pc\\htdocs\\js\\v2,*.js,*.css,-*.joined*.js,-tmpl*.js,-v2",
+					"C:\\workspace\\twipple_pc\\htdocs\\template\\v2",
+					"C:\\workspace\\twipple_pc\\htdocs\\js\\v2,*.js,*.css,-*.joined*.js,-tmpl*.js,-v2",
+					"C:\\workspace\\twipple_pc\\htdocs\\js\\,*.js,*.css,-*.joined*.js,-tmpl*.js,-*min.js",
+					"C:\\workspace\\twipple_pc\\htdocs\\js\\,*.js,*.css,-*.joined*.js,-tmpl*.js,-min.js",
+					"C:\\workspace\\twipple_pc\\htdocs\\js\\,*.js,*.css,-*.joined*.js,-tmpl*.js,-v2",
+					"C:\\workspace\\twipple_pc\\htdocs\\js\\v2,*.js,*.css,-*.joined*.js,-tmpl*.js,-v2",
+					"C:\\workspace\\twipple_pc\\htdocs\\template\\v2",
+					"C:\\workspace\\twipple_pc\\htdocs\\js\\v2,*.js,*.css,-*.joined*.js,-tmpl*.js,-v2",
+					"C:\\workspace\\twipple_pc\\htdocs\\,*.js,*.css,-*.joined*.js,-tmpl*.js,-v2",
+					"C:\\workspace\\twipple_pc\\htdocs\\js\\v2,*.js,*.css,-*.joined*.js,-tmpl*.js,-v2",
+					"C:\\workspace\\twipple_pc\\htdocs\\,*.js,*.css,-*.joined*.js,-tmpl*.js,-v2",
+					"C:\\workspace\\twipple_pc\\htdocs\\js\\v2,*.js,*.css,-*.joined*.js,-tmpl*.js,-v2",
+					"C:\\workspace\\twipple_pc\\htdocs\\js\\v2,*.js,*.jsp,-*.joined*.js,-tmpl*.js,-v2",
+					"C:\\workspace\\twipple_pc\\htdocs\\js,*.js,*.jsp,-*.joined*.js,-tmpl*.js,-v2",
+					"C:\\workspace\\twipple_pc\\,*.vm,*.jsp,-*.joined*.js,-tmpl*.js",
+					"C:\\workspace\\twipple_pc\\htdocs\\js,*.js,*.jsp,-*.joined*.js,-tmpl*.js,-v2",
+					"C:\\workspace\\twipple_pc\\,*.vm,*.jsp,-*.joined*.js,-tmpl*.js",
+					"C:\\workspace\\twipple_pc\\,*.css",
+					"C:\\downloads\\ver21\\orgmacro",
+					"C:\\workspace\\twipple_pc\\,*.java,*.jsp,-*.joined*.js,-tmpl*.js",
+					"C:\\workspace\\twipple_pc\\,*.js,*.jsp,-*.joined*.js,-tmpl*.js",
+					"C:\\workspace\\twipple_photo\\htdocs\\twi\\",
+					"C:\\workspace\\twipple_photo\\htdocs\\twi\\,*.tmpl",
+					"C:\\workspace\\twipple_photo\\htdocs\\twi\\,*.php",
+					"C:\\workspace\\twipple_pc\\htdocs\\js\\v2\\userpage,*.js,*.jsp,-*.joined*.js,-tmpl*.js",
+					"C:\\workspace\\twipple_pc\\,*.js,*.jsp,-*.joined*.js,-tmpl*.js",
+					"C:\\workspace\\twipple_pc\\,*.js,*.jsp",
+					"C:\\workspace\\twipple_pc\\htdocs\\,*.js,-*.joined*.js,-tmpl*.js",
+					"C:\\workspace\\twipple_pc\\,*.js,*.jsp",
+					"C:\\workspace\\twipple_pc\\htdocs\\template\\v2\\,user*.hogan",
+					"C:\\workspace\\twipple_pc\\webapps\\,-*.joined*.js,-tmpl*.js",
+					"C:\\workspace\\twipple_pc\\htdocs\\,*.js,-*.joined*.js,-tmpl*.js",
+					"C:\\workspace\\twipple_pc\\htdocs\\,-*.joined*.js,-tmpl*.js",
+					"C:\\workspace\\twipple_pc\\htdocs\\template",
+					"C:\\workspace\\twipple_pc\\htdocs\\js\\v2\\userpage",
+					"C:\\downloads\\ver21\\orgmacro",
+					"C:\\workspace\\twipple_pc\\htdocs\\template\\,*.hogan",
+					"C:\\workspace\\twipple_pc\\webapps\\,-*.joined*.js,-tmpl*.js",
+					"C:\\workspace\\twipple_pc\\htdocs\\,-*.joined*.js,-tmpl*.js",
+					"C:\\workspace\\twipple_pc\\htdocs\\template\\,*.hogan",
+					"C:\\workspace\\twipple_pc\\htdocs\\template\\v2\\,*.hogan",
+					"C:\\workspace\\twipple_pc\\htdocs\\js\\v2\\,*.js,-*.joined*.js,-tmpl*.js",
+					"C:\\workspace\\twipple_pc\\htdocs\\template\\v2\\,*.hogan",
+					"C:\\workspace\\twipple_pc\\htdocs\\templates\\v2\\,*.hogan",
+					"C:\\workspace\\twipple_pc\\htdocs\\js\\v2\\,*.js,-*.joined*.js,-tmpl*.js",
+					"C:\\downloads\\ver21\\orgmacro",
+					"C:\\workspace\\twipple_pc\\htdocs\\js\\v2\\,*.js,-*.joined*.js,-tmpl*.js",
+					"C:\\workspace\\twipple_pc\\htdocs\\js\\,*.js,-*.joined*.js,-tmpl*.js",
+					"C:\\workspace\\twipple_pc\\htdocs\\template\\v2\\,*.hogan",
+					"C:\\workspace\\twipple_pc\\htdocs\\templates\\v2\\,*.hogan",
+					"C:\\workspace\\twipple_pc\\htdocs\\template\\v2\\,*.hogan",
+					"C:\\workspace\\twipple_pc\\htdocs\\templates\\v2\\,*.hogan",
+					"C:\\workspace\\twipple_pc\\htdocs\\js\\v2\\,*.js,-*.joined*.js,-tmpl*.js",
+					"C:\\workspace\\twipple_pc\\htdocs\\js\\,*.js,-*.joined*.js,-tmpl*.js",
+					"C:\\workspace\\twipple_friends",
+					"C:\\workspace\\twipple_pc\\htdocs\\js\\,*.js,-*.joined*.js,-tmpl*.js",
+					"C:\\workspace\\twipple_pc\\htdocs\\js\\widget\\v2\\,*.js,-*.joined*.js,-tmpl*.js",
+					"C:\\workspace\\twipple_pc\\,*.vm,-*.joined*.js,-tmpl*.js",
+					"C:\\workspace\\twipple_pc\\,*.jsp,-*.joined*.js,-tmpl*.js",
+					"C:\\workspace\\twipple_pc\\htdocs\\js\\widget\\v2\\,*.jsp,-*.joined*.js,-tmpl*.js",
+					"C:\\workspace\\twipple_pc\\htdocs\\js\\widget\\v2\\,*.js,-*.joined*.js,-tmpl*.js",
+					"C:\\workspace\\twipple_pc\\htdocs\\js\\widgets\\v2\\,*.js,-*.joined*.js,-tmpl*.js",
+					"C:\\workspace\\twipple_pc\\,*.js,-*.joined*.js,-tmpl*.js",
+					"C:\\workspace\\twipple_pc\\,*.vm,-*.joined*.js,-tmpl*.js",
+					"C:\\workspace\\twipple_pc\\htdocs,*.js,-*.joined*.js,-tmpl*.js",
+					"C:\\workspace\\twipple_pc\\htdocs,*.js,-*.joined*.js,*tmpl*.js",
+					"C:\\workspace\\twipple_pc\\htdocs,*.js,-*.joined*.js,tmpl*.js",
+					"C:\\workspace\\twipple_pc\\htdocs,*.js,-*.joined*.js",
+					"C:\\workspace\\twipple_pc\\htdocs,*.js,-*joined",
+					"C:\\workspace\\twipple_pc\\htdocs,*.js",
+					"C:\\workspace\\twipple_sso\\htdocs,*.js",
+					"C:\\workspace\\twipple_sso\\htdocs",
+					"C:\\workspace\\twipple_photo\\htdocs\\twi\\",
+					"C:\\workspace\\twipple_pc\\",
+					"C:\\Program Files\\Haskell Platform\\2014.2.0.0",
+					"C:\\Program Files (x86)\\JetBrains",
+					"C:\\workspace\\twipple_pc\\",
+					"C:\\Users\\sekine\\.m2",
+					"C:\\workspace\\twipple_pc\\",
+					"C:\\workspace\\twipple_pc\\htdocs\\,*.js",
+					"C:\\workspace\\twipple_pc\\htdocs\\,*.css",
+					"C:\\workspace\\twipple_pc\\,*.xml",
+					"C:\\workspace\\twipple_pc\\htdocs\\template\\v2",
+					"C:\\workspace\\twipple_pc\\htdocs\\js\\v2\\templates",
+					"C:\\workspace\\twipple_pc\\",
+					"C:\\workspace\\twipple_pc\\script",
+					"C:\\workspace\\twipple_pc\\bin",
+					"C:\\workspace\\twipple_pc\\htdocs\\js",
+					"C:\\workspace\\CentOS\\rails\\study\\"
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"clipTab_",
+					"photoClipBtn",
+					"clipTab_",
+					"bin",
+					"page_top_ad",
+					"\\r",
+					"ga.pc.id",
+					"sp",
+					"ga_account_id",
+					"gaScriptContext",
+					"twipple_pc.vm",
+					"ga_account_id",
+					"loadFacebookLikeButton",
+					"instagr",
+					"outputThubmailTag",
+					"main",
+					"sub",
+					"jcolumn",
+					"subcol",
+					"reloadsub",
+					"shownew",
+					"timelineThumbLiquid",
+					"thu",
+					"changeDesign",
+					"selected",
+					"( a|a )",
+					"selected",
+					"intro",
+					"MultiAccount",
+					"account",
+					"multi",
+					"getLastSelectTab",
+					"setLastSelectTab",
+					"getLastSelectTab",
+					"init",
+					"getLastSelectTabIndex",
+					"getlast",
+					"Twipple.tabs",
+					"Twipple.second",
+					"Twipple.listTab",
+					"Twipple.connectionTabs",
+					"connectionTabs",
+					"Twipple.connectionTabs",
+					"Twipple.second",
+					"Twipple.tabs",
+					"getTabsObjectByColumn",
+					"isFirstViewTimeline",
+					"getLastSelectTabIndex",
+					"setLastSelectTab",
+					"footer",
+					"\\.css",
+					"linkToSPView",
+					"\\.css",
+					"ead6ff",
+					"#99cfec",
+					"#d6a4c9",
+					"#703673",
+					"BDA3D7",
+					"fff9ff",
+					"userScreenNameInTweet",
+					"retweet",
+					"tweetActionMenu",
+					"\\{\\{tweetActionMenu\\}\\}",
+					"addmore",
+					"tweetActionMenu",
+					"widgets",
+					"selectWidgetByCategory",
+					"widgets",
+					"ready",
+					"isThumbnailDisp",
+					"isRecv",
+					"isThumbnailDisp",
+					"outputThubmailTag",
+					"addMoreTweetInfoToTimeline",
+					"add",
+					"isThumbnailDisp",
+					"thumb",
+					"showTweetAreaCloseConfirm",
+					"showTweetArea",
+					"dmSend",
+					"hasThumbnail",
+					"\\.render",
+					"makeThumb",
+					"o",
+					"addMoreTweetInfo",
+					"countBackBox02",
+					"updateTabNewCount",
+					"countBackBox",
+					"getTabsObjectByColumn",
+					"tabsshow",
+					"showUserMainView",
+					"facebookLogin",
+					"clear",
+					"アクション",
+					"getRetweetUser",
+					"showTweetArea",
+					"word-wrap",
+					"draftArea",
+					"Tabs",
+					"tabs",
+					"shotampArea",
+					"\\.tab",
+					"tabs",
+					"tweetOption",
+					"_",
+					"filterExcludeOfficialRT",
+					"filterExcludeOfficialRTButton",
+					"Twipple.Home.filterExcludeOfficialRT\\(true\\)",
+					"Twipple.Home.filterPhoto\\(true\\)",
+					"Twipple.Home.filterPhoto(true)",
+					"filterPhoto",
+					"filterIncludePhotoFlugs",
+					"filterExcludeOfficialRTFlugs",
+					"filterIncludePhotoFlugs",
+					"unfilterExcludeOfficialRT",
+					"filterExcludeOfficialRT",
+					"unfilterExcludeOfficialRT",
+					"filterExcludeOfficialRT",
+					"applyFilter",
+					"readmore",
+					"n applyFilter",
+					".tweetBoxDMnext.sent .tweetDmBalloon:before\\{border-left-color",
+					".tweetBoxDMnext.recv",
+					".tweetBoxDMnext.sent .tweetDmBalloon:before\\{border-left-color",
+					".tweetBoxDMnext.sent .tweetDmBalloon:before{border-left-color",
+					".tweetBoxDMnext.sent",
+					"\\.sent",
+					"\\.recv"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": true,
+				"replace_history":
+				[
+					"Twipple.tabs[\"connectionTabs\"]",
+					"{{{tweetActionMenu}}}",
+					"isThumbnailDisp",
+					"Twipple.Home.filterPhoto\\(true\\, event)",
+					".tweetBoxDMnext.sent .tweetDmBalloon:before\\{border-right-color",
+					".tweetBoxDMnext.recv",
+					"adPageTop",
+					"vtl/v2/advertisement",
+					"home",
+					"\" data-timeline",
+					"getColumnPositionSettingVal",
+					"Twipple.getTabsObjectByColumn(\"#search_timeline\")",
+					"Twipple.getTabsObjectByColumn(\"#connection_timeline\")",
+					"Twipple.getTabsObjectByColumn(\"#home_timeline\")",
+					"Twipple.getTabsObjectByColumn(\"#dm_timeline\")",
+					"Twipple.getTabsObjectByColumn(\"#list_timeline\")",
+					"tab_home",
+					"JSONObject",
+					"/home/ap/bsd1555/old_contents/data/",
+					"",
+					"$1?<%=dateString %>",
+					"(/js/v2/.+?\\.js)?<%=dateString %>",
+					"v2WhiteListFilePath",
+					"/v2?",
+					"Twipple.UserPage.General.showListStatus",
+					"favorite",
+					"Twipple.UserPage.General.showUser",
+					"Twipple.UserPage.General.reply",
+					"Twipple.UserPage.General.retweet",
+					"Twipple.UserPage.Timeline.retweetOfficial",
+					"<script type=\"text/javascript\" src=\"$0\" charset=\"UTF-8\"></script>",
+					"/",
+					"$1_v2\"",
+					"user",
+					"example/assets",
+					"/",
+					");\\nINSERT INTO `emoticon_data`(id,type,emoticon,enable,weight) VALUES (",
+					");\\nINSERT INTO `emoticon_data` VALUES (",
+					");\\r\\nINSERT INTO `emoticon_data` VALUES (",
+					"timelineThumbLiquid(\"#home",
+					"widgetBox",
+					"tweetBox",
+					"isfollowList",
+					"actionButtonTrash",
+					"user_lists_v2",
+					"list_",
+					"",
+					"=",
+					"-",
+					"$1_v2$2",
+					"$1_v2_$2",
+					"reloadMutex",
+					"{{listInfo.screenName}}",
+					"{{listId}}",
+					"wordsofinterest",
+					"\\t",
+					"\"second\"",
+					"\"first\"",
+					"#secondColumn",
+					"#firstColumn",
+					".tweetBox, .mentionBox, .conversationBox",
+					"#TweetSearch",
+					"timeline_gapbutton",
+					"$1_v2\"",
+					"\"/js/v2/",
+					"\"/images/v2/",
+					"\"/css/v2/",
+					"\"/css/v2",
+					"#114746",
+					"#CACFCF",
+					"#FFB25D",
+					"#FFDEB5",
+					"#36CA44",
+					"E3F3D6",
+					"BED7EC",
+					"#F0F7FE",
+					"#C0E1ED",
+					"#0E7575",
+					"#bed7e3",
+					"#34ABDB",
+					"",
+					"{{id}}",
+					"{{screenName}}",
+					"{{id}}",
+					"{{screenName}}",
+					"/images/v2",
+					"\"/images/v2/",
+					"\"/css/v2/"
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 29.0
+			},
+			"input":
+			{
+				"height": 0.0
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"replace":
+			{
+				"height": 72.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+					[
+						"mention_sub_timeline",
+						"htdocs\\template\\mention_sub_timeline.hogan"
+					],
+					[
+						"po",
+						"pom.xml"
+					],
+					[
+						"twipple.pro",
+						"webapps\\src\\main\\resources\\twipple.properties"
+					],
+					[
+						"twipple_pc.vm",
+						"webapps\\target\\classes\\vtl\\ga\\twipple_pc.vm"
+					],
+					[
+						"pom.xml",
+						"pom.xml"
+					],
+					[
+						"twipple.jsp",
+						"webapps\\src\\main\\webapp\\jsp\\twipple.jsp"
+					],
+					[
+						"v2style",
+						"htdocs\\css\\v2\\style.css"
+					],
+					[
+						"v2search",
+						"htdocs\\js\\v2\\twipple.Search.js"
+					],
+					[
+						"mention.js",
+						"htdocs\\js\\v2\\twipple.Mention.js"
+					],
+					[
+						"v2home.js",
+						"htdocs\\js\\v2\\twipple.Home.js"
+					],
+					[
+						"v2twipple",
+						"htdocs\\js\\v2\\twipple.js"
+					],
+					[
+						"streaming_v2",
+						"htdocs\\template\\v2\\dm_firstmessage_streaming_v2.hogan"
+					],
+					[
+						"v2intro",
+						"htdocs\\js\\v2\\twipple.Intro.js"
+					],
+					[
+						"introstyle",
+						"htdocs\\css\\v2\\intro_style.css"
+					],
+					[
+						"intro.vm",
+						"webapps\\src\\main\\resources\\vtl\\v2\\intro.vm"
+					],
+					[
+						"v2multiaccount",
+						"htdocs\\js\\v2\\twipple.MultiAccount.js"
+					],
+					[
+						"fixed",
+						"webapps\\src\\main\\resources\\vtl\\v2\\fixed_header.vm"
+					],
+					[
+						"twipple_v2",
+						"webapps\\src\\main\\webapp\\jsp\\twipple_v2.jsp"
+					],
+					[
+						"v2list.js",
+						"htdocs\\js\\v2\\twipple.List.js"
+					],
+					[
+						"tablettwipp",
+						"htdocs\\js\\tablet\\twipple.js"
+					],
+					[
+						"v2userpagecss",
+						"htdocs\\css\\v2\\userpage\\style.css"
+					],
+					[
+						"userpage_v",
+						"webapps\\src\\main\\webapp\\jsp\\userpage_v2.jsp"
+					],
+					[
+						"userpage",
+						"webapps\\target\\webapps\\jsp\\userpage_v2.jsp"
+					],
+					[
+						"twipple.js",
+						"htdocs\\js\\twipple.js"
+					],
+					[
+						"setting_",
+						"webapps\\src\\main\\webapp\\jsp\\setting_v2.jsp"
+					],
+					[
+						"common_thumbnai",
+						"htdocs\\template\\v2\\common_thumbnail_v2.hogan"
+					],
+					[
+						"tmplcommonthumbnail",
+						"htdocs\\js\\templates\\pc\\v2\\tmpl_common_thumbnail_v2.js"
+					],
+					[
+						"v2tweeta",
+						"htdocs\\js\\v2\\twipple.TweetArea.js"
+					],
+					[
+						"v2twipp",
+						"htdocs\\js\\v2\\twipple.js"
+					],
+					[
+						"v2list",
+						"htdocs\\js\\v2\\twipple.List.js"
+					],
+					[
+						"setting",
+						"webapps\\src\\main\\webapp\\jsp\\setting_v2.jsp"
+					],
+					[
+						"setting_v2",
+						"webapps\\src\\main\\webapp\\jsp\\setting_v2.jsp"
+					],
+					[
+						"twipple.home.",
+						"htdocs\\js\\twipple.Home.js"
+					],
+					[
+						"twipple_v",
+						"webapps\\src\\main\\webapp\\jsp\\twipple_v2.jsp"
+					],
+					[
+						"v2home",
+						"htdocs\\template\\v2\\home_timeline_v2.hogan"
+					],
+					[
+						"tweetarea",
+						"htdocs\\js\\v2\\twipple.TweetArea.js"
+					],
+					[
+						"v2tweetarea",
+						"htdocs\\js\\v2\\twipple.TweetArea.js"
+					],
+					[
+						"v2direct",
+						"htdocs\\js\\v2\\twipple.DirectMessage.js"
+					],
+					[
+						"conversation",
+						"webapps\\src\\main\\resources\\vtl\\conversations.vm"
+					],
+					[
+						"userdetai",
+						"htdocs\\js\\v2\\twipple.UserDetail.js"
+					],
+					[
+						"v2.jsp",
+						"webapps\\src\\main\\webapp\\jsp\\twipple_v2.jsp"
+					],
+					[
+						"v2retweet",
+						"htdocs\\js\\v2\\twipple.Retweet.js"
+					],
+					[
+						"v2userview",
+						"htdocs\\css\\v2\\userview_style.css"
+					],
+					[
+						"v2sty",
+						"htdocs\\css\\v2\\style.css"
+					],
+					[
+						"tablettweeta",
+						"htdocs\\js\\tablet\\twipple.TweetArea.js"
+					],
+					[
+						"streaming.js",
+						"htdocs\\js\\v2\\twipple.Streaming.js"
+					],
+					[
+						"home.js",
+						"htdocs\\js\\twipple.Home.js"
+					],
+					[
+						"header.vm",
+						"webapps\\src\\main\\resources\\vtl\\header.vm"
+					],
+					[
+						"twipple_tab",
+						"webapps\\src\\main\\webapp\\jsp\\twipple_tablet.jsp"
+					],
+					[
+						"fixe",
+						"webapps\\src\\main\\resources\\vtl\\v2\\fixed_header.vm"
+					],
+					[
+						"twipple.strea",
+						"htdocs\\js\\v2\\twipple.Streaming.js"
+					],
+					[
+						"v2prof",
+						"htdocs\\css\\v2\\userpage\\prof_style.css"
+					],
+					[
+						"userpage_v2",
+						"webapps\\src\\main\\webapp\\jsp\\userpage_v2.jsp"
+					],
+					[
+						"v2userstyle",
+						"htdocs\\css\\v2\\userpage\\style.css"
+					],
+					[
+						"v2user",
+						"htdocs\\css\\v2\\userview_style.css"
+					],
+					[
+						"v2setting_",
+						"htdocs\\css\\v2\\settings_style.css"
+					],
+					[
+						"intro",
+						"htdocs\\js\\twipple.Intro.js"
+					],
+					[
+						"v2setting",
+						"htdocs\\js\\v2\\setting.js"
+					],
+					[
+						"setting_sty",
+						"htdocs\\css\\v2\\settings_style.css"
+					],
+					[
+						"retweet.js",
+						"htdocs\\js\\twipple.Retweet.js"
+					],
+					[
+						"officejsp",
+						"webapps\\src\\main\\webapp\\jsp\\twipple_custom_office.jsp"
+					],
+					[
+						"v2st",
+						"htdocs\\css\\v2\\style.css"
+					],
+					[
+						"curation.",
+						"htdocs\\js\\twipple.Curation.js"
+					],
+					[
+						"v2curation",
+						"htdocs\\js\\v2\\twipple.Curation.js"
+					],
+					[
+						"twipple_",
+						"webapps\\src\\main\\webapp\\jsp\\twipple_v2.jsp"
+					],
+					[
+						"dm",
+						"htdocs\\js\\twipple.DirectMessage.js"
+					],
+					[
+						"scripts",
+						"webapps\\src\\main\\resources\\vtl\\scripts_twipple.vm"
+					],
+					[
+						"v2t",
+						"htdocs\\js\\v2\\twipple.js"
+					],
+					[
+						"ad_top_right_top",
+						"webapps\\src\\main\\resources\\vtl\\tablet\\advertisement\\ad_top_right_top.vm"
+					],
+					[
+						"header.css",
+						"htdocs\\common\\css\\header.css"
+					],
+					[
+						"header_com",
+						"webapps\\src\\main\\resources\\vtl\\header_compact.vm"
+					],
+					[
+						"header_ex",
+						"webapps\\src\\main\\resources\\vtl\\header_expand.vm"
+					],
+					[
+						"header",
+						"webapps\\src\\main\\resources\\vtl\\header.vm"
+					],
+					[
+						"fi",
+						"webapps\\src\\main\\resources\\vtl\\v2\\fixed_header.vm"
+					],
+					[
+						"init.vm",
+						"webapps\\target\\classes\\vtl\\advertisement\\ad_top_init_header.vm"
+					],
+					[
+						"web.xml",
+						"webapps\\target\\webapps\\WEB-INF\\web.xml"
+					],
+					[
+						"twipple.proper",
+						"webapps\\src\\main\\resources\\twipple.properties"
+					],
+					[
+						"tabletsetting",
+						"htdocs\\js\\tablet\\setting.js"
+					],
+					[
+						"v2userpage",
+						"htdocs\\js\\v2\\userpage\\twipple.userpage.Favorite.js"
+					],
+					[
+						"v2/twipple",
+						"htdocs\\js\\v2\\twipple.js"
+					],
+					[
+						"userpage_ta",
+						"webapps\\src\\main\\webapp\\jsp\\userpage_tablet.jsp"
+					],
+					[
+						"scripts_twipple",
+						"webapps\\target\\classes\\vtl\\scripts_twipple.vm"
+					],
+					[
+						"twipple_v2.jsp",
+						"webapps\\src\\main\\webapp\\jsp\\twipple_v2.jsp"
+					],
+					[
+						"v2twipple.li",
+						"htdocs\\js\\v2\\twipple.List.js"
+					],
+					[
+						"v2twipple.",
+						"htdocs\\js\\v2\\twipple.js"
+					],
+					[
+						"tablethome.",
+						"htdocs\\js\\tablet\\twipple.Home.js"
+					],
+					[
+						"search.js",
+						"htdocs\\js\\v2\\twipple.Search.js"
+					],
+					[
+						"tweet_search_top_v2",
+						"htdocs\\template\\v2\\tweet_search_top_v2.hogan"
+					],
+					[
+						"jscss",
+						"bin\\z_pika6_jscss_compressor.sh"
+					],
+					[
+						"pink",
+						"htdocs\\css\\tablet\\pink\\color_setting.css"
+					],
+					[
+						"style.css",
+						"htdocs\\css\\tablet\\style.css"
+					],
+					[
+						"direct",
+						"htdocs\\js\\tablet\\twipple.DirectMessage.js"
+					],
+					[
+						"timeline_gapbutton_v2",
+						"htdocs\\js\\templates\\pc\\v2\\tmpl_timeline_gapbutton_v2.js"
+					],
+					[
+						"gap",
+						"htdocs\\js\\templates\\pc\\v2\\tmpl_timeline_gapbutton_v2.js"
+					],
+					[
+						"curation_",
+						"htdocs\\css\\v2\\curation_popup_style.css"
+					],
+					[
+						"tweet",
+						"webapps\\src\\main\\resources\\vtl\\v2\\tweet_area.vm"
+					],
+					[
+						"tweet_area",
+						"webapps\\src\\main\\resources\\vtl\\v2\\tweet_area.vm"
+					],
+					[
+						"out_toda",
+						"htdocs\\template\\v2\\widget_out_today_v2.hogan"
+					],
+					[
+						"photo.ho",
+						"htdocs\\template\\v2\\widget_photo_v2.hogan"
+					],
+					[
+						"photo.js",
+						"htdocs\\js\\widget\\v2\\photo.js"
+					],
+					[
+						"news.js",
+						"htdocs\\js\\widget\\v2\\news.js"
+					],
+					[
+						"pom.",
+						"pom.xml"
+					],
+					[
+						"movie",
+						"htdocs\\js\\widget\\v2\\movie.js"
+					],
+					[
+						"naver",
+						"htdocs\\js\\widget\\v2\\navermatome.js"
+					],
+					[
+						"rt.js",
+						"htdocs\\js\\widget\\v2\\rt.js"
+					],
+					[
+						"photo.hoga",
+						"htdocs\\template\\v2\\widget_photo_v2.hogan"
+					],
+					[
+						"widget_com",
+						"htdocs\\template\\v2\\widget_common_v2.hogan"
+					],
+					[
+						"twipple.",
+						"htdocs\\js\\twipple.js"
+					],
+					[
+						"v2twipple.home",
+						"htdocs\\js\\v2\\twipple.Home.js"
+					],
+					[
+						"hot",
+						"htdocs\\js\\widget\\hotword.js"
+					],
+					[
+						"hotwor",
+						"htdocs\\js\\widget\\hotword.js"
+					],
+					[
+						"user_lists",
+						"htdocs\\template\\v2\\user_lists_v2.hogan"
+					],
+					[
+						"twiplpe_v2",
+						"webapps\\target\\webapps\\jsp\\twipple_v2.jsp"
+					],
+					[
+						"search.vm",
+						"webapps\\target\\classes\\vtl\\search_tweet.vm"
+					],
+					[
+						"words",
+						"htdocs\\js\\twipple.WordsOfInterest.js"
+					],
+					[
+						"sty",
+						"htdocs\\css\\v2\\style.css"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 374.0,
+				"selected_items":
+				[
+				],
+				"width": 384.0
+			},
+			"show_minimap": false,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 218.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 1668.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"uni",
+						"unique_ptr"
+					],
+					[
+						"col",
+						"columnId"
+					],
+					[
+						"tar",
+						"target"
+					],
+					[
+						"fis",
+						"firstColumn"
+					],
+					[
+						"co",
+						"columns"
+					],
+					[
+						"secon",
+						"secondColumn"
+					],
+					[
+						"firs",
+						"firstColumn"
+					],
+					[
+						"mar",
+						"margin-left"
+					],
+					[
+						"fon",
+						"font-size"
+					],
+					[
+						"pa",
+						"padding-top"
+					],
+					[
+						"time",
+						"timeline"
+					],
+					[
+						"thu",
+						"thumbnailUrls"
+					],
+					[
+						"stat",
+						"statusData"
+					],
+					[
+						"dm",
+						"dmmode"
+					],
+					[
+						"line",
+						"line-height"
+					],
+					[
+						"twi",
+						"twitterId"
+					],
+					[
+						"mai",
+						"mail_to"
+					],
+					[
+						"Fro",
+						"fromObject"
+					],
+					[
+						"colu",
+						"columnPositionRadioOneColumnWarning"
+					],
+					[
+						"s",
+						"size"
+					],
+					[
+						"intro",
+						"introflag"
+					],
+					[
+						"current",
+						"currentExtraSettings"
+					],
+					[
+						"type",
+						"typeof"
+					],
+					[
+						"Twipple",
+						"TwippleUtils"
+					],
+					[
+						"wi",
+						"width"
+					],
+					[
+						"tex",
+						"text-align"
+					],
+					[
+						"home",
+						"home_timeline"
+					],
+					[
+						"data",
+						"dataArray"
+					],
+					[
+						"val",
+						"values"
+					],
+					[
+						"thumb",
+						"thumbnailUrl"
+					],
+					[
+						"in",
+						"inline"
+					],
+					[
+						"sear",
+						"search_timeline"
+					],
+					[
+						"change",
+						"changeColorCustom"
+					],
+					[
+						"li",
+						"light"
+					],
+					[
+						"color",
+						"colorEditArea"
+					],
+					[
+						"da",
+						"datas"
+					],
+					[
+						"fi",
+						"filters"
+					],
+					[
+						"fil",
+						"filter"
+					],
+					[
+						"us",
+						"user"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"contents": "・クライアント\n\n 1. ホーム画面にリクエストが来たら今まで通りREST APIを実行と、Streaming張ってねリクエストを送る\n 2. ポーリング開始。10秒に1回ぐらい。\n 2.1. Streamingのコネクションが張られるまでラグがあるので取りこぼしを防ぐために、\n  * コネクションが張られるまでは今まで通りRESTAPIを叩く\n  * コネクションが張られた初回に念のためRESTAPIを叩く（以降は不要）\n\n・フロントサーバ\n\n * Streaming張ってねリクエスト\n    キューファイルを生成する（1リクエスト1ファイル）\n   ファイル名は日時_TwitterIDとかで被らないようにする\n * ポーリングリクエスト\n 1. キャッシュファイルをチェックして、まだ取得していないキャッシュがあればそれを返す \n戻り値は`{streaming_status:\"connected\",results:[...]}`としておいて`streaming_status`には現在の状態を入れて返す。\n値としては、\n * standby : コネクション張る前\n * connected : コネクション張ってる状態\n * disconnected : コネクション終了済み\nとして、状態に合わせてクライアント側が制御しやすいようにする。\n 2. ユーザキャッシュディレクトリ内に「streaming.listening」ファイルを作成し、リクエスト毎に更新する。\n（クライアントのライフチェック用ファイル）負荷がちょっと心配\n\n・バックエンド（ストリーミングを張る）\n\n 1. cronで１分に１回キューファイルを巡回してストリーミングプロセスを開始する\n 2. キューファイルを削除\n\n・バックエンド（ストリーミングプロセス）\n\n 1. SiteStream(UserStream)を張る\n コネクションを張ったらそのユーザのキャッシュディレクトリ内に「streaming.running」ファイルを生成する。（Streamingのライフチェック用ファイル）\n すでにrunnningファイルがあればExit\n 2. 結果を受け取ったらキャッシュディレクトリにキャッシュファイルを生成する\n キャッシュファイルはgzip圧縮をかける\n 3. `listening`ファイルのをチェックして5分以上更新が無ければコネクション断してexit\nライフチェックの仕方はこんな感じを想定。\n```\n\nwhile (isListening(twitterId)) {\n	Thread.sleep(5000); // 5秒スリープ\n}\n\n```\n\n・バックエンド（キャッシュクリア）\n\n1. 1時間に1回とかでcron実行して一定期間経過したキャッシュを削除する\n\n",
+					"settings":
+					{
+						"buffer_size": 1187,
+						"line_ending": "Windows",
+						"name": "・クライアント"
+					}
+				},
+				{
+					"contents": "nginx install\nhttp://webkaru.net/linux/centos-6-3-nginx-install/\n\n/etc/nginx/conf.d/defalut.confの\nlisten 80;\nを任意のポートに変更\n\n/sbin:/bin:/usr/sbin:/usr/bin\n/opt/rbenv/shims:/opt/rbenv/bin:/usr/local/bin:/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/sbin:/home/toru/bin\n\nunicorn install\nhttp://techracho.bpsinc.jp/piichan1031/2010_07_09/2075\n\nssl client install\n yum -y install openldap-clients\n\nunicorn start\n bundle exec unicorn_rails -c config/unicorn-config.rb",
+					"settings":
+					{
+						"buffer_size": 453,
+						"line_ending": "Windows",
+						"name": "nginx install"
+					}
+				},
+				{
+					"contents": "1. **yum update**\n2. **/etc/sudoers を適宜変更**\n3. **ssh追加**\n4. **apache インスコ**  \nyum -y install httpd\n5. **iptablesに下記を追加**  \niptables -A INPUT -p tcp --dport 80 -j ACCEPT  \niptables -A INPUT -p tcp --dport 8080 -j ACCEPT  \niptables -A INPUT -p tcp --dport 443 -j ACCEPT  \n※ REJECTの設定の前に記述すること\n6. **iptables再起動**  \nservice iptables save  \nservice iptables reload\n7. **git install**  \nyum install git 7.1.1 githubアカウント作成\n 1. git設定  \ngit config --global user.name \"storu\"  \ngit config --global user.email \"sekine_toru@interprism.co.jp\"  \n// ダブルクォートの中は適宜変える   \n 2. ssh鍵作成  \nssh-key gen -t rsa -C \"sekine_toru@interprism.co.jp\"  \n// ダブルクォートの中はgitのメールアドレスとかにしとくといいかも\n 3. ~/.ssh/config に下記を追加  \n Host github.com  \n  User git  \n  Port 22  \n  Hostname github.com  \n  IdentityFile ~/.ssh/github_id_rsa\n 4. git疎通確認（飛ばしてもおｋ）  \nssh git@github.com\n8. **rbenv install**  \ncd /opt  \ngit clone git://github.com/sstephenson/rbenv.git\n9. **rbenv をPATHに追加**  \necho 'export RBENV_ROOT=\"/opt/rbenv\"' >> /etc/profile  \necho 'export PATH=\"${RBENV_ROOT}/bin:${PATH}\"' >> /etc/profile  \necho 'eval \"$(rbenv init -)\"' >> /etc/profile\n10. **ruby-build プラグインをclone**  \nmkdir /opt/rbenv/plugins  \ncd /opt/rbenv/plugins  \ngit clone git://github.com/sstephenson/ruby-build.git",
+					"settings":
+					{
+						"buffer_size": 1242,
+						"line_ending": "Windows",
+						"name": "1. **yum update**"
+					}
+				},
+				{
+					"contents": "22\nzxcv12qwas\n4B2JjauH\n1234qwaszx\n1234qwer\nzxSDER45\nZXsder45\n45ersdzx",
+					"settings":
+					{
+						"buffer_size": 69,
+						"line_ending": "Windows",
+						"name": "22"
+					}
+				},
+				{
+					"contents": "0x317acc:190\n0x317ad0:180\n0x317ad4:170\n\n0x317ac8:190\n0x317acc:999\n0x317ad0:180\n0x317ad4:170\n\n0x3f7ac8:190\n0x3f7acc:180\n0x3f7ad0:999\n0x3f7ad4:170",
+					"settings":
+					{
+						"buffer_size": 144,
+						"line_ending": "Windows",
+						"name": "0x317acc:190"
+					}
+				},
+				{
+					"contents": "LT\nhttp://applech2.com/archives/42773862.html",
+					"settings":
+					{
+						"buffer_size": 45,
+						"line_ending": "Windows",
+						"name": "LT"
+					}
+				},
+				{
+					"contents": "簡易面接\n\n名前と弊社の志望動機、\n*PG経験有無*=>授業での経験はほぼ0とみなす。研究ならOK\n\nテストの成績\n\n1st 20点以上かどうか=>まあまあ\n\n109 7 55 1\n151 12 55 2",
+					"settings":
+					{
+						"buffer_size": 102,
+						"line_ending": "Windows",
+						"name": "簡易面接"
+					}
+				},
+				{
+					"contents": "confirm = function(){return false;}",
+					"settings":
+					{
+						"buffer_size": 35,
+						"line_ending": "Windows",
+						"name": "confirm = function(){return false;}"
+					}
+				},
+				{
+					"file": "/C/workspace/individual_sekine_toru/C++/STL/memo.md",
+					"settings":
+					{
+						"buffer_size": 7411,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/C/workspace/individual_sekine_toru/SystemCall/readme.md",
+					"settings":
+					{
+						"buffer_size": 501,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"contents": "詳解 Linuxカーネル 第3版\nふつうのLinuxプログラミング\nLinuxシステムプログラミング\nLinuxシステムコールプログラミング",
+					"settings":
+					{
+						"buffer_size": 70,
+						"line_ending": "Windows",
+						"name": "詳解 Linuxカーネル 第3版"
+					}
+				},
+				{
+					"file": "/C/workspace/individual_sekine_toru/Assembler/readme.md",
+					"settings":
+					{
+						"buffer_size": 6434,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"contents": "4,200,000,000\n4,294,967,296\n18,446,744,073,709,551,616\n1,000,000,000,000,000,000",
+					"settings":
+					{
+						"buffer_size": 80,
+						"line_ending": "Windows",
+						"name": "4,200,000,000"
+					}
+				},
+				{
+					"contents": "ホスト名:               IP_NEBIG_02-PC\nOS 名:                  Microsoft Windows 7 Home Premium\nOS バージョン:          6.1.7601 Service Pack 1 ビルド 7601\nOS 製造元:              Microsoft Corporation\nOS 構成:                スタンドアロン ワークステーション\nOS ビルドの種類:        Multiprocessor Free\n登録されている所有者:   ip_nebig_02\n登録されている組織:\nプロダクト ID:          00359-OEM-8703737-57278\n最初のインストール日付: 2014/07/30, 12:28:37\nシステム起動時間:       2015/03/24, 9:17:03\nシステム製造元:         To Be Filled By O.E.M.\nシステム モデル:        To Be Filled By O.E.M.\nシステムの種類:         x64-based PC\nプロセッサ:             1 プロセッサインストール済みです。\n                        [01]: Intel64 Family 6 Model 42 Stepping 7 GenuineIntel ~300\nBIOS バージョン:        American Megatrends Inc. P1.70, 2011/10/25\nWindows ディレクトリ:   C:\\Windows\nシステム ディレクトリ:  C:\\Windows\\system32\n起動デバイス:           \\Device\\HarddiskVolume1\nシステム ロケール:      ja;日本語\n入力ロケール:           ja;日本語\nタイム ゾーン:          (UTC+09:00) 大阪、札幌、東京\n物理メモリの合計:       7,910 MB\n利用できる物理メモリ:   2,678 MB\n仮想メモリ: 最大サイズ: 15,819 MB\n仮想メモリ: 利用可能:   7,498 MB\n仮想メモリ: 使用中:     8,321 MB\nページ ファイルの場所:  C:\\pagefile.sys\nドメイン:               WORKGROUP\nログオン サーバー:      \\\\IP_NEBIG_02-PC\nホットフィックス:       221 ホットフィックスがインストールされています。\n                        [01]: KB2849697\n                        [02]: KB2849696\n                        [03]: KB2841134\n                        [04]: KB2841134\n                        [05]: KB2670838\n                        [06]: KB2830477\n                        [07]: KB2592687\n                        [08]: KB971033\n                        [09]: KB2479943\n                        [10]: KB2491683\n                        [11]: KB2506014\n                        [12]: KB2506212\n                        [13]: KB2506928\n                        [14]: KB2509553\n                        [15]: KB2511455\n                        [16]: KB2515325\n                        [17]: KB2532531\n                        [18]: KB2533552\n                        [19]: KB2533623\n                        [20]: KB2534111\n                        [21]: KB2536275\n                        [22]: KB2536276\n                        [23]: KB2544893\n                        [24]: KB2545698\n                        [25]: KB2547666\n                        [26]: KB2552343\n                        [27]: KB2560656\n                        [28]: KB2563227\n                        [29]: KB2564958\n                        [30]: KB2570947\n                        [31]: KB2574819\n                        [32]: KB2579686\n                        [33]: KB2584146\n                        [34]: KB2585542\n                        [35]: KB2603229\n                        [36]: KB2604115\n                        [37]: KB2619339\n                        [38]: KB2620704\n                        [39]: KB2621440\n                        [40]: KB2631813\n                        [41]: KB2639308\n                        [42]: KB2640148\n                        [43]: KB2647753\n                        [44]: KB2653956\n                        [45]: KB2654428\n                        [46]: KB2655992\n                        [47]: KB2656356\n                        [48]: KB2660075\n                        [49]: KB2667402\n                        [50]: KB2676562\n                        [51]: KB2685811\n                        [52]: KB2685813\n                        [53]: KB2685939\n                        [54]: KB2690533\n                        [55]: KB2698365\n                        [56]: KB2699779\n                        [57]: KB2705219\n                        [58]: KB2706045\n                        [59]: KB2709630\n                        [60]: KB2712808\n                        [61]: KB2718704\n                        [62]: KB2719857\n                        [63]: KB2726535\n                        [64]: KB2727528\n                        [65]: KB2729094\n                        [66]: KB2729452\n                        [67]: KB2731771\n                        [68]: KB2732059\n                        [69]: KB2732487\n                        [70]: KB2732500\n                        [71]: KB2736422\n                        [72]: KB2742599\n                        [73]: KB2743555\n                        [74]: KB2750841\n                        [75]: KB2756921\n                        [76]: KB2758857\n                        [77]: KB2761217\n                        [78]: KB2763523\n                        [79]: KB2770660\n                        [80]: KB2773072\n                        [81]: KB2785220\n                        [82]: KB2786081\n                        [83]: KB2789645\n                        [84]: KB2791765\n                        [85]: KB2798162\n                        [86]: KB2799926\n                        [87]: KB2800095\n                        [88]: KB2803821\n                        [89]: KB2807986\n                        [90]: KB2808679\n                        [91]: KB2813347\n                        [92]: KB2813430\n                        [93]: KB2820331\n                        [94]: KB2832414\n                        [95]: KB2834140\n                        [96]: KB2836942\n                        [97]: KB2836943\n                        [98]: KB2839894\n                        [99]: KB2840149\n                        [100]: KB2840631\n                        [101]: KB2843630\n                        [102]: KB2844286\n                        [103]: KB2846960\n                        [104]: KB2847077\n                        [105]: KB2847311\n                        [106]: KB2847927\n                        [107]: KB2849470\n                        [108]: KB2852386\n                        [109]: KB2853952\n                        [110]: KB2855844\n                        [111]: KB2857650\n                        [112]: KB2861191\n                        [113]: KB2861698\n                        [114]: KB2861855\n                        [115]: KB2862152\n                        [116]: KB2862330\n                        [117]: KB2862335\n                        [118]: KB2862966\n                        [119]: KB2862973\n                        [120]: KB2863240\n                        [121]: KB2864058\n                        [122]: KB2864202\n                        [123]: KB2868038\n                        [124]: KB2868116\n                        [125]: KB2868626\n                        [126]: KB2871997\n                        [127]: KB2872339\n                        [128]: KB2876284\n                        [129]: KB2876331\n                        [130]: KB2882822\n                        [131]: KB2884256\n                        [132]: KB2887069\n                        [133]: KB2888049\n                        [134]: KB2891804\n                        [135]: KB2892074\n                        [136]: KB2893294\n                        [137]: KB2893519\n                        [138]: KB2894844\n                        [139]: KB2898857\n                        [140]: KB2900986\n                        [141]: KB2904266\n                        [142]: KB2908783\n                        [143]: KB2909210\n                        [144]: KB2911501\n                        [145]: KB2912390\n                        [146]: KB2913152\n                        [147]: KB2918077\n                        [148]: KB2918614\n                        [149]: KB2919469\n                        [150]: KB2922229\n                        [151]: KB2923545\n                        [152]: KB2926765\n                        [153]: KB2928562\n                        [154]: KB2929437\n                        [155]: KB2929733\n                        [156]: KB2929755\n                        [157]: KB2931356\n                        [158]: KB2937610\n                        [159]: KB2939576\n                        [160]: KB2943357\n                        [161]: KB2952664\n                        [162]: KB2957189\n                        [163]: KB2957503\n                        [164]: KB2957509\n                        [165]: KB2961072\n                        [166]: KB2962872\n                        [167]: KB2966583\n                        [168]: KB2968294\n                        [169]: KB2970228\n                        [170]: KB2971850\n                        [171]: KB2972100\n                        [172]: KB2972211\n                        [173]: KB2972280\n                        [174]: KB2973112\n                        [175]: KB2973201\n                        [176]: KB2973337\n                        [177]: KB2973351\n                        [178]: KB2976627\n                        [179]: KB2976897\n                        [180]: KB2977292\n                        [181]: KB2977629\n                        [182]: KB2977728\n                        [183]: KB2978092\n                        [184]: KB2978120\n                        [185]: KB2978668\n                        [186]: KB2978742\n                        [187]: KB2979570\n                        [188]: KB2980245\n                        [189]: KB2981580\n                        [190]: KB2982378\n                        [191]: KB2984972\n                        [192]: KB2984976\n                        [193]: KB2985461\n                        [194]: KB2987107\n                        [195]: KB2991963\n                        [196]: KB2992611\n                        [197]: KB2993651\n                        [198]: KB2993958\n                        [199]: KB2994023\n                        [200]: KB2998527\n                        [201]: KB3000061\n                        [202]: KB3000869\n                        [203]: KB3000988\n                        [204]: KB3001554\n                        [205]: KB3002885\n                        [206]: KB3003057\n                        [207]: KB3003743\n                        [208]: KB3005607\n                        [209]: KB3006121\n                        [210]: KB3006226\n                        [211]: KB3006625\n                        [212]: KB3008627\n                        [213]: KB3008923\n                        [214]: KB3009736\n                        [215]: KB3010788\n                        [216]: KB3011780\n                        [217]: KB3013126\n                        [218]: KB3013410\n                        [219]: KB3014406\n                        [220]: KB976902\n                        [221]: KB982018\nネットワーク カード:    4 NIC(s) インストール済みです。\n                        [01]: Realtek PCIe GBE Family Controller\n                              接続名:           ローカル エリア接続\n                              DHCP が有効:      はい\n                              DHCP サーバー:    192.168.0.1\n                              IP アドレス\n                              [01]: 192.168.0.136\n                              [02]: fe80::6c62:21e6:66df:1a49\n                        [02]: VMware Virtual Ethernet Adapter for VMnet1\n                              接続名:           VMware Network Adapter VMnet1\n                              DHCP が有効:      はい\n                              DHCP サーバー:    192.168.246.254\n                              IP アドレス\n                              [01]: 192.168.246.1\n                              [02]: fe80::91a7:e855:ddc2:de8d\n                        [03]: VirtualBox Host-Only Ethernet Adapter\n                              接続名:           VirtualBox Host-Only Network\n                              DHCP が有効:      いいえ\n                              IP アドレス\n                              [01]: 192.168.56.1\n                              [02]: fe80::118b:cb0d:3435:4105\n                        [04]: VMware Virtual Ethernet Adapter for VMnet8\n                              接続名:           VMware Network Adapter VMnet8\n                              DHCP が有効:      いいえ\n                              IP アドレス\n                              [01]: 192.168.163.1\n                              [02]: fe80::a564:9098:5748:8971",
+					"settings":
+					{
+						"buffer_size": 11620,
+						"line_ending": "Windows",
+						"name": "ホスト名:               IP_NEBIG_02-PC"
+					}
+				},
+				{
+					"file": "/C/downloads/msdos/msdos/binary/i86_x64/sample.com",
+					"settings":
+					{
+						"buffer_size": 206,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/C/workspace/individual_sekine_toru/Assembler/helloworld.asm",
+					"settings":
+					{
+						"buffer_size": 389,
+						"line_ending": "Windows"
+					}
+				}
+			],
+			"build_system": "",
+			"command_palette":
+			{
+				"height": 88.0,
+				"selected_items":
+				[
+					[
+						"json",
+						"Pretty JSON: Format (Pretty Print) JSON"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"packa",
+						"Preferences: Package Control Settings – User"
+					],
+					[
+						"pack",
+						"Preferences: Package Control Settings – User"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"sql",
+						"Set Syntax: SQL"
+					],
+					[
+						"mark",
+						"Markdown Preview: Preview in Browser"
+					]
+				],
+				"width": 480.0
+			},
+			"console":
+			{
+				"height": 126.0,
+				"history":
+				[
+					"import urllib.request,os,hashlib; h = '2deb499853c4371624f5a07e27c334aa' + 'bf8c4e67d14fb0525ba4f89698a6d7e1'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+					"import urllib.request,os,hashlib; h = ‘7183a2d3e96f11eeadd761d777e62404e330c659d4bb41d3bdf022e94cab3cd0’; pf = ‘Package Control.sublime-package’; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( ‘http://sublime.wbond.net/’ + pf.replace(’ ‘, ‘%20’)).read(); dh = hashlib.sha256(by).hexdigest(); print(‘Error validating download (got %s instead of %s), please try manual install’ % (dh, h)) if dh != h else open(os.path.join( ipp, pf), ‘wb’ ).write(by)",
+					"import urllib.request,os,hashlib; h = '2deb499853c4371624f5a07e27c334aa' + 'bf8c4e67d14fb0525ba4f89698a6d7e1'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/C/workspace/twipple_pc",
+				"/C/workspace/twipple_pc/webapps"
+			],
+			"file_history":
+			[
+				"/C/workspace/individual_sekine_toru/Assembler/sample.com",
+				"/C/HaxLogs.txt",
+				"/C/workspace/twipple_pc/htdocs/js/v2/twipple.js",
+				"/C/workspace/twipple_pc/htdocs/js/v2/twipple.Streaming.js",
+				"/C/workspace/twipple_pc/webapps/src/main/java/jp/co/biglobe/twipple/servlet/external/twitter/Lists.java",
+				"/C/workspace/twipple_pc/htdocs/js/twipple.Custom.Office.Home.js",
+				"/C/workspace/twipple_pc/htdocs/js/v2/twipple.UserDetail.js",
+				"/C/workspace/twipple_pc/htdocs/js/v2/twipple.Home.js",
+				"/C/downloads/脳筋オヤカタver2.1.4/脳筋オヤカタver2.1.4/錬成.uws",
+				"/C/workspace/individual_sekine_toru/C++/Try/memo.md",
+				"/C/downloads/ver24.1/orgmacro/userSetting.uws",
+				"/C/workspace/individual_sekine_toru/C++/List/memo.md",
+				"/C/workspace/individual_sekine_toru/C++/Allocator/src/OrigAllocator.hpp",
+				"/C/workspace/individual_sekine_toru/C++/Vector/memo.md",
+				"/C/workspace/individual_sekine_toru/C++/eclipse_C++11_settings.xml",
+				"/C/workspace/individual_sekine_toru/C++/Lambda/memo.md",
+				"/C/workspace/individual_sekine_toru/C++/Array/memo.md",
+				"/C/workspace/individual_sekine_toru/C++/Macro/memo.md",
+				"/C/workspace/individual_sekine_toru/C++/Template/memo.md",
+				"/C/workspace/individual_sekine_toru/C++/readme.md",
+				"/C/workspace/individual_sekine_toru/C++/SmartPointer/memo.md",
+				"/C/workspace/twipple_pc/htdocs/template/v2/home_timeline_v2.hogan",
+				"/C/workspace/twipple_pc/.idea/vcs.xml",
+				"/C/workspace/twipple_pc/twipple-core/src/main/java/jp/co/biglobe/twipple/util/V2WhiteListReader.java",
+				"/C/workspace/twipple_pc/htdocs/css/v2/style.css",
+				"/C/workspace/twipple_pc/htdocs/css/tablet/responsive.css",
+				"/C/workspace/twipple_pc/htdocs/css/sp/responsive.css",
+				"/C/Users/sekine/AppData/Local/Temp/scp47210/home/ap/crt-tw/contents/bin/album_ban.php",
+				"/C/Users/sekine/AppData/Local/Temp/scp45549/home/ap/pic-tw/contents/bin/delete_user_info_cache_by_twitterID.php",
+				"/C/Users/sekine/AppData/Local/Temp/scp45608/home/ap/pic-tw/contents/bin/cache_delete_users.php",
+				"/C/workspace/individual_sekine_toru/C++/Allocator/memo.md",
+				"/C/workspace/individual_sekine_toru/C++/Recursive/memo.md",
+				"/C/workspace/twipple_pc/htdocs/js/thirdparty.custom.office.joined.js",
+				"/C/workspace/twipple_pc/htdocs/js/twipple.custom.office.core.joined.js",
+				"/C/workspace/twipple_pc/htdocs/js/twipple.custom.office.core.joined.min.js",
+				"/C/workspace/twipple_pc/htdocs/js/twipple.custom.office.joined.js",
+				"/C/workspace/twipple_pc/webapps/target/webapps/jsp/twipple_tablet.jsp",
+				"/C/workspace/individual_sekine_toru/C++/OperatorOverload/memo.md",
+				"/C/workspace/individual_sekine_toru/C++/FunctionStudy/memo.md",
+				"/C/workspace/individual_sekine_toru/C++/Union/memo.md",
+				"/C/downloads/ver24.1/orgmacro/lib/ChkImgX/ChkImgX.uws",
+				"/C/workspace/twipple_pc/htdocs/template/mention_sub_timeline.hogan",
+				"/C/downloads/ver24.1/orgmacro/orgMacro.uws",
+				"/C/workspace/individual_sekine_toru/Union/memo.md",
+				"/C/workspace/individual_sekine_toru/RemoteSystemsTempFiles/.project",
+				"/C/workspace/individual_sekine_toru/C++/Pointer/memo.md",
+				"/C/workspace/individual_sekine_toru/C++/Memory/memo.md",
+				"/C/workspace/individual_sekine_toru/C++/Typedef/memo.md",
+				"/C/workspace/individual_sekine_toru/C++/Map/memo.md",
+				"/C/workspace/twipple_pc/htdocs/js/twipple.Search.js",
+				"/C/workspace/twipple_pc/htdocs/js/twipple.js",
+				"/C/workspace/twipple_pc/webapps/src/main/webapp/jsp/twipple.jsp",
+				"/C/workspace/twipple_pc/webapps/target/webapps/jsp/setting_tablet.jsp",
+				"/C/workspace/twipple_pc/htdocs/js/tablet/twipple.js",
+				"/C/workspace/twipple_pc/htdocs/unlogin/tablet_index.html",
+				"/C/workspace/twipple_pc/htdocs/js/tablet/setting.js",
+				"/C/workspace/twipple_pc/htdocs/js/tablet/twipple.TweetArea.js",
+				"/C/workspace/twipple_pc/script/twineta_widgetview.sh",
+				"/C/workspace/twipple_pc/bin/twipple.joined.js",
+				"/C/workspace/twipple_pc/htdocs/js/sp/twipple.Search.js",
+				"/C/workspace/twipple_pc/htdocs/js/tablet/twipple.Search.js",
+				"/C/workspace/twipple_pc/htdocs/js/v2/twipple.Search.js",
+				"/C/workspace/twipple_pc/webapps/target/classes/vtl/search_tweet.vm",
+				"/C/workspace/twipple_pc/memo.txt",
+				"/C/workspace/individual_sekine_toru/C++/ClassExtends/memo.md",
+				"/C/downloads/ver24.1/orgmacro/LOG.TXT",
+				"/C/downloads/ver24.1/orgmacro/lib/bath-questCheck.uws",
+				"/C/downloads/ver24.1/orgmacro/lib/capture.uws",
+				"/C/downloads/ver24.1/orgmacro/lib/explore.uws",
+				"/C/downloads/ver24.1/orgmacro/lib/exploreQ.uws",
+				"/C/downloads/ver24.1/orgmacro/lib/exploringStageSelect.uws",
+				"/C/downloads/ver24.1/orgmacro/lib/extension.uws",
+				"/C/downloads/ver24.1/orgmacro/lib/networkError.uws",
+				"/C/downloads/ver24.1/orgmacro/lib/orgMacroPROCEDURE.uws",
+				"/C/downloads/ver24.1/orgmacro/lib/reconstruction.uws",
+				"/C/downloads/ver24.1/orgmacro/lib/rest.uws",
+				"/C/downloads/ver24.1/orgmacro/lib/warning.uws",
+				"/C/workspace/twipple_pc/htdocs/template/dm_newestmessage_reload_marker.hogan",
+				"/C/workspace/twipple_pc/htdocs/js/twipple.Retweet.js",
+				"/C/workspace/twipple_pc/htdocs/js/widget/v2/rt.js",
+				"/C/workspace/twipple_pc/htdocs/js/twipple.Curation.Custom.js",
+				"/C/workspace/twipple_pc/webapps/src/main/webapp/jsp/setting_tablet.jsp",
+				"/C/workspace/twipple_pc/webapps/target/classes/vtl/ga/twipple_pc.vm",
+				"/C/workspace/individual_sekine_toru/readme.md",
+				"/C/workspace/twipple_pc/.gitignore",
+				"/C/workspace/individual_sekine_toru/.gitignore",
+				"/C/downloads/theme-9358.xml",
+				"/C/workspace/individual_sekine_toru/FunctionStudy/memo.md",
+				"/C/workspace/individual_sekine_toru/Loop/memo.md",
+				"/C/workspace/individual_sekine_toru/Array/memo.md",
+				"/C/workspace/individual_sekine_toru/Class/memo.md",
+				"/C/workspace/individual_sekine_toru/Pointer/memo.md",
+				"/C/workspace/individual_sekine_toru/Charactors/memo.md",
+				"/C/Users/sekine/AppData/Local/Temp/scp10359/home/ap/bsd1555/contents/twipple_stream/bin/twipple.properties",
+				"/C/Users/sekine/AppData/Local/Temp/scp17801/home/ap/bsd1555/contents/twipple_stream/bin/user_stream.sh",
+				"/C/workspace/individual_sekine_toru/Reference/memo.md",
+				"/C/workspace/individual_sekine_toru/Struct/memo.md",
+				"/C/Users/sekine/AppData/Local/Temp/scp00796/home/ap/bsd1555/contents/release/z/20150305_design_renewal/webapps/WEB-INF/classes/vtl/header.vm",
+				"/C/Users/sekine/AppData/Local/Temp/scp01146/home/ap/bsd1555/contents/release/z/20150304_design_renewal_03/webapps/WEB-INF/classes/vtl/header.vm",
+				"/C/Users/sekine/AppData/Local/Temp/scp17417/home/ap/bsd1555/contents/twipple_stream/bin/stream_trigger.sh",
+				"/C/Users/sekine/AppData/Local/Temp/scp27715/home/ap/bsd1555/contents/release/z/20150305_design_renewal/htdocs/js/twipple.joined.min.js",
+				"/C/workspace/twipple_pc/data/stream/que_waiting/155471104",
+				"/C/workspace/twipple_pc/htdocs/template/v2/common_tweet_action_menu_v2.hogan",
+				"/C/workspace/individual_sekine_toru/conditionalBranch/memo.md",
+				"/C/workspace/individual_sekine_toru/HelloWorld/.cproject",
+				"/C/Users/sekine/AppData/Local/Temp/scp29556/home/ap/bsd1555/contents/data/v2_white_list.txt",
+				"/C/Users/sekine/AppData/Local/Temp/scp18147/home/ap/bsd1555/contents/bin/log_rotate.sh",
+				"/C/workspace/twipple_pc/webapps/src/main/resources/twipple.properties",
+				"/C/workspace/twipple_pc/pom.xml",
+				"/C/workspace/twipple_pc/webapps/src/main/webapp/jsp/twipple_v2.jsp",
+				"/C/workspace/twipple_pc/docs/twipple_pc_renewal_integrated_test_spec_20120321.xls",
+				"/C/Users/sekine/AppData/Local/Temp/scp32542/home/ap/bsd1555/contents/release/z/20141212_reduce_six_servers/webapps/WEB-INF/classes/vtl/scripts_twipple.vm",
+				"/C/workspace/individual_sekine_toru/conditionalBranch/.gitignore",
+				"/C/workspace/individual_sekine_toru/HelloWorld/.gitignore",
+				"/C/workspace/twipple_pc/htdocs/js/v2/userpage/twipple.userpage.General.js",
+				"/C/workspace/twipple_pc/bin/z_pika6_jscss_compressor_sekine.sh",
+				"/C/workspace/twipple_pc/htdocs/js/v2/twipple.Curation.js",
+				"/C/workspace/twipple_pc/htdocs/js/userpage/twipple.userpage.General.js",
+				"/C/workspace/twipple_pc/htdocs/js/twipple.Custom.js",
+				"/C/workspace/twipple_pc/htdocs/js/twipple.Curation.js",
+				"/C/workspace/twipple_pc/htdocs/js/tablet/userpage/twipple.userpage.General.js",
+				"/C/workspace/twipple_pc/htdocs/js/tablet/twipple.Curation.js",
+				"/C/workspace/twipple_pc/htdocs/js/sp/userpage/twipple.userpage.General.js",
+				"/C/workspace/twipple_pc/htdocs/js/sp/twipple.js",
+				"/C/workspace/twipple_pc/htdocs/js/sp/twipple.Custom.js",
+				"/C/workspace/twipple_pc/htdocs/js/sp/twipple.Curation.js",
+				"/C/workspace/twipple_pc/webapps/src/main/resources/vtl/v2/intro.vm",
+				"/C/workspace/twipple_pc/htdocs/template/v2/home_timeline_streaming_v2.hogan"
+			],
+			"find":
+			{
+				"height": 38.0
+			},
+			"find_in_files":
+			{
+				"height": 106.0,
+				"where_history":
+				[
+					"C:\\workspace\\twipple_pc\\,*.java",
+					"C:\\workspace\\twipple_pc\\htdocs\\js\\v2\\,*.js,*.java,-*.joined*.js,-tmpl*.js",
+					"C:\\workspace\\twipple_pc\\,*.js,*.java,-*.joined*.js,-tmpl*.js",
+					"C:\\downloads\\ver24.1\\orgmacro",
+					"C:\\workspace\\twipple_pc\\,*.js,*.java,-*.joined*.js,-tmpl*.js",
+					"C:\\workspace\\twipple_pc\\,*.vm,*.js,*.java,-*.joined*.js,-tmpl*.js",
+					"C:\\workspace\\twipple_pc\\,*.java,-*.joined*.js,-tmpl*.js",
+					"C:\\workspace\\twipple_pc\\,*.vm,*.js,*.java,-*.joined*.js,-tmpl*.js",
+					"C:\\workspace\\twipple_pc\\,*.vm,*.js,-*.joined*.js,-tmpl*.js",
+					"C:\\workspace\\twipple_pc\\,*",
+					"C:\\workspace\\twipple_pc\\,*.vm,*.jsp,-*.joined*.js,-tmpl*.js",
+					"C:\\workspace\\twipple_pc\\htdocs\\template\\v2",
+					"C:\\workspace\\twipple_pc\\htdocs\\js\\v2,*.js,*.css,-*.joined*.js,-tmpl*.js,-v2",
+					"C:\\workspace\\twipple_pc\\htdocs\\js\\,*.js,*.css,-*.joined*.js,-tmpl*.js,-v2",
+					"C:\\workspace\\twipple_pc\\htdocs\\js\\v2,*.js,*.css,-*.joined*.js,-tmpl*.js,-v2",
+					"C:\\workspace\\twipple_pc\\htdocs\\js\\tablet,*.js,*.css,-*.joined*.js,-tmpl*.js,-v2",
+					"C:\\workspace\\twipple_pc\\htdocs\\js\\v2,*.js,*.css,-*.joined*.js,-tmpl*.js,-v2",
+					"C:\\workspace\\twipple_pc\\htdocs\\js\\tablet,*.js,*.css,-*.joined*.js,-tmpl*.js,-v2",
+					"C:\\workspace\\twipple_pc\\htdocs\\js\\v2,*.js,*.css,-*.joined*.js,-tmpl*.js,-v2",
+					"C:\\workspace\\twipple_pc\\htdocs\\js\\tablet,*.js,*.css,-*.joined*.js,-tmpl*.js,-v2",
+					"C:\\workspace\\twipple_pc\\htdocs\\template\\v2",
+					"C:\\workspace\\twipple_pc\\,*.vm,*.jsp,-*.joined*.js,-tmpl*.js",
+					"C:\\workspace\\twipple_pc\\htdocs\\template\\v2",
+					"C:\\workspace\\twipple_pc\\htdocs\\js\\v2,*.js,*.css,-*.joined*.js,-tmpl*.js,-v2",
+					"C:\\workspace\\twipple_pc\\htdocs\\js,*.js,*.css,-*.joined*.js,-tmpl*.js,-v2",
+					"C:\\workspace\\twipple_pc\\htdocs\\js\\v2,*.js,*.css,-*.joined*.js,-tmpl*.js,-v2",
+					"C:\\workspace\\twipple_pc\\,*.vm,-*.joined*.js,-tmpl*.js",
+					"C:\\workspace\\twipple_pc\\,*.vm,*.jsp,-*.joined*.js,-tmpl*.js",
+					"C:\\workspace\\twipple_pc\\htdocs\\js\\v2,*.js,*.css,-*.joined*.js,-tmpl*.js,-v2",
+					"C:\\workspace\\twipple_pc\\htdocs\\js\\,*.js,*.css,-*.joined*.js,-tmpl*.js,-v2,-*min.js",
+					"C:\\workspace\\twipple_pc\\htdocs\\template\\v2",
+					"C:\\workspace\\twipple_pc\\htdocs\\css\\v2\\,*.css",
+					"C:\\workspace\\twipple_pc\\htdocs\\css\\,*.css",
+					"C:\\workspace\\twipple_pc\\htdocs\\js\\,*.js,*.css,-*.joined*.js,-tmpl*.js,-v2,-*min.js",
+					"C:\\workspace\\twipple_pc\\htdocs\\js\\v2,*.js,*.css,-*.joined*.js,-tmpl*.js,-v2",
+					"C:\\workspace\\twipple_pc\\htdocs\\template\\v2",
+					"C:\\workspace\\twipple_pc\\htdocs\\js\\v2,*.js,*.css,-*.joined*.js,-tmpl*.js,-v2",
+					"C:\\workspace\\twipple_pc\\htdocs\\template\\v2",
+					"C:\\workspace\\twipple_pc\\htdocs\\js\\v2,*.js,*.css,-*.joined*.js,-tmpl*.js,-v2",
+					"C:\\workspace\\twipple_pc\\htdocs\\js\\,*.js,*.css,-*.joined*.js,-tmpl*.js,-*min.js",
+					"C:\\workspace\\twipple_pc\\htdocs\\js\\,*.js,*.css,-*.joined*.js,-tmpl*.js,-min.js",
+					"C:\\workspace\\twipple_pc\\htdocs\\js\\,*.js,*.css,-*.joined*.js,-tmpl*.js,-v2",
+					"C:\\workspace\\twipple_pc\\htdocs\\js\\v2,*.js,*.css,-*.joined*.js,-tmpl*.js,-v2",
+					"C:\\workspace\\twipple_pc\\htdocs\\template\\v2",
+					"C:\\workspace\\twipple_pc\\htdocs\\js\\v2,*.js,*.css,-*.joined*.js,-tmpl*.js,-v2",
+					"C:\\workspace\\twipple_pc\\htdocs\\,*.js,*.css,-*.joined*.js,-tmpl*.js,-v2",
+					"C:\\workspace\\twipple_pc\\htdocs\\js\\v2,*.js,*.css,-*.joined*.js,-tmpl*.js,-v2",
+					"C:\\workspace\\twipple_pc\\htdocs\\,*.js,*.css,-*.joined*.js,-tmpl*.js,-v2",
+					"C:\\workspace\\twipple_pc\\htdocs\\js\\v2,*.js,*.css,-*.joined*.js,-tmpl*.js,-v2",
+					"C:\\workspace\\twipple_pc\\htdocs\\js\\v2,*.js,*.jsp,-*.joined*.js,-tmpl*.js,-v2",
+					"C:\\workspace\\twipple_pc\\htdocs\\js,*.js,*.jsp,-*.joined*.js,-tmpl*.js,-v2",
+					"C:\\workspace\\twipple_pc\\,*.vm,*.jsp,-*.joined*.js,-tmpl*.js",
+					"C:\\workspace\\twipple_pc\\htdocs\\js,*.js,*.jsp,-*.joined*.js,-tmpl*.js,-v2",
+					"C:\\workspace\\twipple_pc\\,*.vm,*.jsp,-*.joined*.js,-tmpl*.js",
+					"C:\\workspace\\twipple_pc\\,*.css",
+					"C:\\downloads\\ver21\\orgmacro",
+					"C:\\workspace\\twipple_pc\\,*.java,*.jsp,-*.joined*.js,-tmpl*.js",
+					"C:\\workspace\\twipple_pc\\,*.js,*.jsp,-*.joined*.js,-tmpl*.js",
+					"C:\\workspace\\twipple_photo\\htdocs\\twi\\",
+					"C:\\workspace\\twipple_photo\\htdocs\\twi\\,*.tmpl",
+					"C:\\workspace\\twipple_photo\\htdocs\\twi\\,*.php",
+					"C:\\workspace\\twipple_pc\\htdocs\\js\\v2\\userpage,*.js,*.jsp,-*.joined*.js,-tmpl*.js",
+					"C:\\workspace\\twipple_pc\\,*.js,*.jsp,-*.joined*.js,-tmpl*.js",
+					"C:\\workspace\\twipple_pc\\,*.js,*.jsp",
+					"C:\\workspace\\twipple_pc\\htdocs\\,*.js,-*.joined*.js,-tmpl*.js",
+					"C:\\workspace\\twipple_pc\\,*.js,*.jsp",
+					"C:\\workspace\\twipple_pc\\htdocs\\template\\v2\\,user*.hogan",
+					"C:\\workspace\\twipple_pc\\webapps\\,-*.joined*.js,-tmpl*.js",
+					"C:\\workspace\\twipple_pc\\htdocs\\,*.js,-*.joined*.js,-tmpl*.js",
+					"C:\\workspace\\twipple_pc\\htdocs\\,-*.joined*.js,-tmpl*.js",
+					"C:\\workspace\\twipple_pc\\htdocs\\template",
+					"C:\\workspace\\twipple_pc\\htdocs\\js\\v2\\userpage",
+					"C:\\downloads\\ver21\\orgmacro",
+					"C:\\workspace\\twipple_pc\\htdocs\\template\\,*.hogan",
+					"C:\\workspace\\twipple_pc\\webapps\\,-*.joined*.js,-tmpl*.js",
+					"C:\\workspace\\twipple_pc\\htdocs\\,-*.joined*.js,-tmpl*.js",
+					"C:\\workspace\\twipple_pc\\htdocs\\template\\,*.hogan",
+					"C:\\workspace\\twipple_pc\\htdocs\\template\\v2\\,*.hogan",
+					"C:\\workspace\\twipple_pc\\htdocs\\js\\v2\\,*.js,-*.joined*.js,-tmpl*.js",
+					"C:\\workspace\\twipple_pc\\htdocs\\template\\v2\\,*.hogan",
+					"C:\\workspace\\twipple_pc\\htdocs\\templates\\v2\\,*.hogan",
+					"C:\\workspace\\twipple_pc\\htdocs\\js\\v2\\,*.js,-*.joined*.js,-tmpl*.js",
+					"C:\\downloads\\ver21\\orgmacro",
+					"C:\\workspace\\twipple_pc\\htdocs\\js\\v2\\,*.js,-*.joined*.js,-tmpl*.js",
+					"C:\\workspace\\twipple_pc\\htdocs\\js\\,*.js,-*.joined*.js,-tmpl*.js",
+					"C:\\workspace\\twipple_pc\\htdocs\\template\\v2\\,*.hogan",
+					"C:\\workspace\\twipple_pc\\htdocs\\templates\\v2\\,*.hogan",
+					"C:\\workspace\\twipple_pc\\htdocs\\template\\v2\\,*.hogan",
+					"C:\\workspace\\twipple_pc\\htdocs\\templates\\v2\\,*.hogan",
+					"C:\\workspace\\twipple_pc\\htdocs\\js\\v2\\,*.js,-*.joined*.js,-tmpl*.js",
+					"C:\\workspace\\twipple_pc\\htdocs\\js\\,*.js,-*.joined*.js,-tmpl*.js",
+					"C:\\workspace\\twipple_friends",
+					"C:\\workspace\\twipple_pc\\htdocs\\js\\,*.js,-*.joined*.js,-tmpl*.js",
+					"C:\\workspace\\twipple_pc\\htdocs\\js\\widget\\v2\\,*.js,-*.joined*.js,-tmpl*.js",
+					"C:\\workspace\\twipple_pc\\,*.vm,-*.joined*.js,-tmpl*.js",
+					"C:\\workspace\\twipple_pc\\,*.jsp,-*.joined*.js,-tmpl*.js",
+					"C:\\workspace\\twipple_pc\\htdocs\\js\\widget\\v2\\,*.jsp,-*.joined*.js,-tmpl*.js",
+					"C:\\workspace\\twipple_pc\\htdocs\\js\\widget\\v2\\,*.js,-*.joined*.js,-tmpl*.js",
+					"C:\\workspace\\twipple_pc\\htdocs\\js\\widgets\\v2\\,*.js,-*.joined*.js,-tmpl*.js",
+					"C:\\workspace\\twipple_pc\\,*.js,-*.joined*.js,-tmpl*.js",
+					"C:\\workspace\\twipple_pc\\,*.vm,-*.joined*.js,-tmpl*.js",
+					"C:\\workspace\\twipple_pc\\htdocs,*.js,-*.joined*.js,-tmpl*.js",
+					"C:\\workspace\\twipple_pc\\htdocs,*.js,-*.joined*.js,*tmpl*.js",
+					"C:\\workspace\\twipple_pc\\htdocs,*.js,-*.joined*.js,tmpl*.js",
+					"C:\\workspace\\twipple_pc\\htdocs,*.js,-*.joined*.js",
+					"C:\\workspace\\twipple_pc\\htdocs,*.js,-*joined",
+					"C:\\workspace\\twipple_pc\\htdocs,*.js",
+					"C:\\workspace\\twipple_sso\\htdocs,*.js",
+					"C:\\workspace\\twipple_sso\\htdocs",
+					"C:\\workspace\\twipple_photo\\htdocs\\twi\\",
+					"C:\\workspace\\twipple_pc\\",
+					"C:\\Program Files\\Haskell Platform\\2014.2.0.0",
+					"C:\\Program Files (x86)\\JetBrains",
+					"C:\\workspace\\twipple_pc\\",
+					"C:\\Users\\sekine\\.m2",
+					"C:\\workspace\\twipple_pc\\",
+					"C:\\workspace\\twipple_pc\\htdocs\\,*.js",
+					"C:\\workspace\\twipple_pc\\htdocs\\,*.css",
+					"C:\\workspace\\twipple_pc\\,*.xml",
+					"C:\\workspace\\twipple_pc\\htdocs\\template\\v2",
+					"C:\\workspace\\twipple_pc\\htdocs\\js\\v2\\templates",
+					"C:\\workspace\\twipple_pc\\",
+					"C:\\workspace\\twipple_pc\\script",
+					"C:\\workspace\\twipple_pc\\bin",
+					"C:\\workspace\\twipple_pc\\htdocs\\js",
+					"C:\\workspace\\CentOS\\rails\\study\\"
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"86",
+					"loadMuteUsers",
+					"do ?\\{",
+					"do",
+					"while",
+					"addMultiThumbImageClass",
+					"apply",
+					"node",
+					"双方向連結リスト",
+					"を双方向連結リスト",
+					"0x7b8df0",
+					"関数",
+					"unique_ptr",
+					"auto",
+					"auto_ptr",
+					"auto",
+					"cache_delete_target_twitter_id_array",
+					"commonLightBox ",
+					"typedef",
+					"lt;",
+					"jtl",
+					"escape",
+					"\\r",
+					"RUNDOM_SLEEP",
+					"sleep",
+					"新しいツイートが",
+					"clipTab_",
+					"photoClipBtn",
+					"clipTab_",
+					"bin",
+					"page_top_ad",
+					"\\r",
+					"ga.pc.id",
+					"sp",
+					"ga_account_id",
+					"gaScriptContext",
+					"twipple_pc.vm",
+					"ga_account_id",
+					"loadFacebookLikeButton",
+					"instagr",
+					"outputThubmailTag",
+					"main",
+					"sub",
+					"jcolumn",
+					"subcol",
+					"reloadsub",
+					"shownew",
+					"timelineThumbLiquid",
+					"thu",
+					"changeDesign",
+					"selected",
+					"( a|a )",
+					"selected",
+					"intro",
+					"MultiAccount",
+					"account",
+					"multi",
+					"getLastSelectTab",
+					"setLastSelectTab",
+					"getLastSelectTab",
+					"init",
+					"getLastSelectTabIndex",
+					"getlast",
+					"Twipple.tabs",
+					"Twipple.second",
+					"Twipple.listTab",
+					"Twipple.connectionTabs",
+					"connectionTabs",
+					"Twipple.connectionTabs",
+					"Twipple.second",
+					"Twipple.tabs",
+					"getTabsObjectByColumn",
+					"isFirstViewTimeline",
+					"getLastSelectTabIndex",
+					"setLastSelectTab",
+					"footer",
+					"\\.css",
+					"linkToSPView",
+					"\\.css",
+					"ead6ff",
+					"#99cfec",
+					"#d6a4c9",
+					"#703673",
+					"BDA3D7",
+					"fff9ff",
+					"userScreenNameInTweet",
+					"retweet",
+					"tweetActionMenu",
+					"\\{\\{tweetActionMenu\\}\\}",
+					"addmore",
+					"tweetActionMenu",
+					"widgets",
+					"selectWidgetByCategory",
+					"widgets",
+					"ready",
+					"isThumbnailDisp",
+					"isRecv",
+					"isThumbnailDisp",
+					"outputThubmailTag",
+					"addMoreTweetInfoToTimeline",
+					"add",
+					"isThumbnailDisp",
+					"thumb",
+					"showTweetAreaCloseConfirm",
+					"showTweetArea",
+					"dmSend",
+					"hasThumbnail",
+					"\\.render",
+					"makeThumb",
+					"o",
+					"addMoreTweetInfo",
+					"countBackBox02",
+					"updateTabNewCount",
+					"countBackBox",
+					"getTabsObjectByColumn",
+					"tabsshow",
+					"showUserMainView",
+					"facebookLogin",
+					"clear",
+					"アクション",
+					"getRetweetUser",
+					"showTweetArea",
+					"word-wrap",
+					"draftArea",
+					"Tabs",
+					"tabs",
+					"shotampArea",
+					"\\.tab"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": true,
+				"replace_history":
+				[
+					"双方向リスト",
+					"shared_ptr",
+					"unique_ptr",
+					"unique",
+					"RANDOM_SLEEP",
+					"RUNDOM_SLEEP",
+					"Twipple.tabs[\"connectionTabs\"]",
+					"{{{tweetActionMenu}}}",
+					"isThumbnailDisp",
+					"Twipple.Home.filterPhoto\\(true\\, event)",
+					".tweetBoxDMnext.sent .tweetDmBalloon:before\\{border-right-color",
+					".tweetBoxDMnext.recv",
+					"adPageTop",
+					"vtl/v2/advertisement",
+					"home",
+					"\" data-timeline",
+					"getColumnPositionSettingVal",
+					"Twipple.getTabsObjectByColumn(\"#search_timeline\")",
+					"Twipple.getTabsObjectByColumn(\"#connection_timeline\")",
+					"Twipple.getTabsObjectByColumn(\"#home_timeline\")",
+					"Twipple.getTabsObjectByColumn(\"#dm_timeline\")",
+					"Twipple.getTabsObjectByColumn(\"#list_timeline\")",
+					"tab_home",
+					"JSONObject",
+					"/home/ap/bsd1555/old_contents/data/",
+					"",
+					"$1?<%=dateString %>",
+					"(/js/v2/.+?\\.js)?<%=dateString %>",
+					"v2WhiteListFilePath",
+					"/v2?",
+					"Twipple.UserPage.General.showListStatus",
+					"favorite",
+					"Twipple.UserPage.General.showUser",
+					"Twipple.UserPage.General.reply",
+					"Twipple.UserPage.General.retweet",
+					"Twipple.UserPage.Timeline.retweetOfficial",
+					"<script type=\"text/javascript\" src=\"$0\" charset=\"UTF-8\"></script>",
+					"/",
+					"$1_v2\"",
+					"user",
+					"example/assets",
+					"/",
+					");\\nINSERT INTO `emoticon_data`(id,type,emoticon,enable,weight) VALUES (",
+					");\\nINSERT INTO `emoticon_data` VALUES (",
+					");\\r\\nINSERT INTO `emoticon_data` VALUES (",
+					"timelineThumbLiquid(\"#home",
+					"widgetBox",
+					"tweetBox",
+					"isfollowList",
+					"actionButtonTrash",
+					"user_lists_v2",
+					"list_",
+					"",
+					"=",
+					"-",
+					"$1_v2$2",
+					"$1_v2_$2",
+					"reloadMutex",
+					"{{listInfo.screenName}}",
+					"{{listId}}",
+					"wordsofinterest",
+					"\\t",
+					"\"second\"",
+					"\"first\"",
+					"#secondColumn",
+					"#firstColumn",
+					".tweetBox, .mentionBox, .conversationBox",
+					"#TweetSearch",
+					"timeline_gapbutton",
+					"$1_v2\"",
+					"\"/js/v2/",
+					"\"/images/v2/",
+					"\"/css/v2/",
+					"\"/css/v2",
+					"#114746",
+					"#CACFCF",
+					"#FFB25D",
+					"#FFDEB5",
+					"#36CA44",
+					"E3F3D6",
+					"BED7EC",
+					"#F0F7FE",
+					"#C0E1ED",
+					"#0E7575",
+					"#bed7e3",
+					"#34ABDB",
+					"",
+					"{{id}}",
+					"{{screenName}}",
+					"{{id}}",
+					"{{screenName}}",
+					"/images/v2",
+					"\"/images/v2/",
+					"\"/css/v2/"
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"follow_symlinks": true,
+					"path": "C:\\workspace\\twipple_pc"
+				}
+			],
+			"groups":
+			[
+				{
+					"selected": 11,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1187,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1187,
+										1187
+									]
+								],
+								"settings":
+								{
+									"auto_name": "・クライアント",
+									"parser": "markdown",
+									"syntax": "Packages/Text/Plain text.tmLanguage",
+									"target": "browser"
+								},
+								"translation.x": 0.0,
+								"translation.y": 271.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 13,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 453,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										120,
+										120
+									]
+								],
+								"settings":
+								{
+									"auto_name": "nginx install",
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 14,
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1242,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										717,
+										717
+									]
+								],
+								"settings":
+								{
+									"auto_name": "1. **yum update**",
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 252.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 15,
+							"type": "text"
+						},
+						{
+							"buffer": 3,
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 69,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										69,
+										61
+									]
+								],
+								"settings":
+								{
+									"auto_name": "22",
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 10,
+							"type": "text"
+						},
+						{
+							"buffer": 4,
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 144,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										144,
+										144
+									]
+								],
+								"settings":
+								{
+									"auto_name": "0x317acc:190",
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 9,
+							"type": "text"
+						},
+						{
+							"buffer": 5,
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 45,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										45,
+										45
+									]
+								],
+								"settings":
+								{
+									"auto_name": "LT",
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 12,
+							"type": "text"
+						},
+						{
+							"buffer": 6,
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 102,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										102,
+										102
+									]
+								],
+								"settings":
+								{
+									"auto_name": "簡易面接",
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 11,
+							"type": "text"
+						},
+						{
+							"buffer": 7,
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 35,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										35,
+										35
+									]
+								],
+								"settings":
+								{
+									"auto_name": "confirm = function(){return false;}",
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 8,
+							"type": "text"
+						},
+						{
+							"buffer": 8,
+							"file": "/C/workspace/individual_sekine_toru/C++/STL/memo.md",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 7411,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										242,
+										242
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Markdown/Markdown.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 4,
+							"type": "text"
+						},
+						{
+							"buffer": 9,
+							"file": "/C/workspace/individual_sekine_toru/SystemCall/readme.md",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 501,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										364,
+										364
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Markdown/Markdown.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 5,
+							"type": "text"
+						},
+						{
+							"buffer": 10,
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 70,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										50,
+										50
+									]
+								],
+								"settings":
+								{
+									"auto_name": "詳解 Linuxカーネル 第3版",
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 2,
+							"type": "text"
+						},
+						{
+							"buffer": 11,
+							"file": "/C/workspace/individual_sekine_toru/Assembler/readme.md",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 6434,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										5884,
+										5884
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Markdown/Markdown.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 5659.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						},
+						{
+							"buffer": 12,
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 80,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										28,
+										28
+									]
+								],
+								"settings":
+								{
+									"auto_name": "4,200,000,000",
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						},
+						{
+							"buffer": 13,
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 11620,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										2434,
+										2436
+									]
+								],
+								"settings":
+								{
+									"auto_name": "ホスト名:               IP_NEBIG_02-PC",
+									"syntax": "Packages/Text/Plain text.tmLanguage",
+									"tab_size": 6,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 961.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 3,
+							"type": "text"
+						},
+						{
+							"buffer": 14,
+							"file": "/C/downloads/msdos/msdos/binary/i86_x64/sample.com",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 206,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										136,
+										135
+									]
+								],
+								"settings":
+								{
+									"origin_encoding": "UTF-8",
+									"syntax": "Packages/Text/Plain text.tmLanguage",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 6,
+							"type": "text"
+						},
+						{
+							"buffer": 15,
+							"file": "/C/workspace/individual_sekine_toru/Assembler/helloworld.asm",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 389,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										389
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Text/Plain text.tmLanguage",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 7,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 29.0
+			},
+			"input":
+			{
+				"height": 0.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"position": "0,0,1,-32000,-32000,-1,-1,914,62,12,1746",
+			"project": "",
+			"replace":
+			{
+				"height": 72.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+					[
+						"v2home.",
+						"htdocs\\js\\v2\\twipple.Home.js"
+					],
+					[
+						"v2streaming",
+						"htdocs\\js\\v2\\twipple.Streaming.js"
+					],
+					[
+						"v2twipp",
+						"htdocs\\js\\v2\\twipple.js"
+					],
+					[
+						"tablet.jsp",
+						"webapps\\target\\webapps\\jsp\\twipple_tablet.jsp"
+					],
+					[
+						"twipple.js",
+						"htdocs\\js\\twipple.js"
+					],
+					[
+						"twipple.jsp",
+						"webapps\\src\\main\\webapp\\jsp\\twipple.jsp"
+					],
+					[
+						"search.js",
+						"htdocs\\js\\twipple.Search.js"
+					],
+					[
+						"mention_sub_timeline",
+						"htdocs\\template\\mention_sub_timeline.hogan"
+					],
+					[
+						"po",
+						"pom.xml"
+					],
+					[
+						"twipple.pro",
+						"webapps\\src\\main\\resources\\twipple.properties"
+					],
+					[
+						"twipple_pc.vm",
+						"webapps\\target\\classes\\vtl\\ga\\twipple_pc.vm"
+					],
+					[
+						"pom.xml",
+						"pom.xml"
+					],
+					[
+						"v2style",
+						"htdocs\\css\\v2\\style.css"
+					],
+					[
+						"v2search",
+						"htdocs\\js\\v2\\twipple.Search.js"
+					],
+					[
+						"mention.js",
+						"htdocs\\js\\v2\\twipple.Mention.js"
+					],
+					[
+						"v2home.js",
+						"htdocs\\js\\v2\\twipple.Home.js"
+					],
+					[
+						"v2twipple",
+						"htdocs\\js\\v2\\twipple.js"
+					],
+					[
+						"streaming_v2",
+						"htdocs\\template\\v2\\dm_firstmessage_streaming_v2.hogan"
+					],
+					[
+						"v2intro",
+						"htdocs\\js\\v2\\twipple.Intro.js"
+					],
+					[
+						"introstyle",
+						"htdocs\\css\\v2\\intro_style.css"
+					],
+					[
+						"intro.vm",
+						"webapps\\src\\main\\resources\\vtl\\v2\\intro.vm"
+					],
+					[
+						"v2multiaccount",
+						"htdocs\\js\\v2\\twipple.MultiAccount.js"
+					],
+					[
+						"fixed",
+						"webapps\\src\\main\\resources\\vtl\\v2\\fixed_header.vm"
+					],
+					[
+						"twipple_v2",
+						"webapps\\src\\main\\webapp\\jsp\\twipple_v2.jsp"
+					],
+					[
+						"v2list.js",
+						"htdocs\\js\\v2\\twipple.List.js"
+					],
+					[
+						"tablettwipp",
+						"htdocs\\js\\tablet\\twipple.js"
+					],
+					[
+						"v2userpagecss",
+						"htdocs\\css\\v2\\userpage\\style.css"
+					],
+					[
+						"userpage_v",
+						"webapps\\src\\main\\webapp\\jsp\\userpage_v2.jsp"
+					],
+					[
+						"userpage",
+						"webapps\\target\\webapps\\jsp\\userpage_v2.jsp"
+					],
+					[
+						"setting_",
+						"webapps\\src\\main\\webapp\\jsp\\setting_v2.jsp"
+					],
+					[
+						"common_thumbnai",
+						"htdocs\\template\\v2\\common_thumbnail_v2.hogan"
+					],
+					[
+						"tmplcommonthumbnail",
+						"htdocs\\js\\templates\\pc\\v2\\tmpl_common_thumbnail_v2.js"
+					],
+					[
+						"v2tweeta",
+						"htdocs\\js\\v2\\twipple.TweetArea.js"
+					],
+					[
+						"v2list",
+						"htdocs\\js\\v2\\twipple.List.js"
+					],
+					[
+						"setting",
+						"webapps\\src\\main\\webapp\\jsp\\setting_v2.jsp"
+					],
+					[
+						"setting_v2",
+						"webapps\\src\\main\\webapp\\jsp\\setting_v2.jsp"
+					],
+					[
+						"twipple.home.",
+						"htdocs\\js\\twipple.Home.js"
+					],
+					[
+						"twipple_v",
+						"webapps\\src\\main\\webapp\\jsp\\twipple_v2.jsp"
+					],
+					[
+						"v2home",
+						"htdocs\\template\\v2\\home_timeline_v2.hogan"
+					],
+					[
+						"tweetarea",
+						"htdocs\\js\\v2\\twipple.TweetArea.js"
+					],
+					[
+						"v2tweetarea",
+						"htdocs\\js\\v2\\twipple.TweetArea.js"
+					],
+					[
+						"v2direct",
+						"htdocs\\js\\v2\\twipple.DirectMessage.js"
+					],
+					[
+						"conversation",
+						"webapps\\src\\main\\resources\\vtl\\conversations.vm"
+					],
+					[
+						"userdetai",
+						"htdocs\\js\\v2\\twipple.UserDetail.js"
+					],
+					[
+						"v2.jsp",
+						"webapps\\src\\main\\webapp\\jsp\\twipple_v2.jsp"
+					],
+					[
+						"v2retweet",
+						"htdocs\\js\\v2\\twipple.Retweet.js"
+					],
+					[
+						"v2userview",
+						"htdocs\\css\\v2\\userview_style.css"
+					],
+					[
+						"v2sty",
+						"htdocs\\css\\v2\\style.css"
+					],
+					[
+						"tablettweeta",
+						"htdocs\\js\\tablet\\twipple.TweetArea.js"
+					],
+					[
+						"streaming.js",
+						"htdocs\\js\\v2\\twipple.Streaming.js"
+					],
+					[
+						"home.js",
+						"htdocs\\js\\twipple.Home.js"
+					],
+					[
+						"header.vm",
+						"webapps\\src\\main\\resources\\vtl\\header.vm"
+					],
+					[
+						"twipple_tab",
+						"webapps\\src\\main\\webapp\\jsp\\twipple_tablet.jsp"
+					],
+					[
+						"fixe",
+						"webapps\\src\\main\\resources\\vtl\\v2\\fixed_header.vm"
+					],
+					[
+						"twipple.strea",
+						"htdocs\\js\\v2\\twipple.Streaming.js"
+					],
+					[
+						"v2prof",
+						"htdocs\\css\\v2\\userpage\\prof_style.css"
+					],
+					[
+						"userpage_v2",
+						"webapps\\src\\main\\webapp\\jsp\\userpage_v2.jsp"
+					],
+					[
+						"v2userstyle",
+						"htdocs\\css\\v2\\userpage\\style.css"
+					],
+					[
+						"v2user",
+						"htdocs\\css\\v2\\userview_style.css"
+					],
+					[
+						"v2setting_",
+						"htdocs\\css\\v2\\settings_style.css"
+					],
+					[
+						"intro",
+						"htdocs\\js\\twipple.Intro.js"
+					],
+					[
+						"v2setting",
+						"htdocs\\js\\v2\\setting.js"
+					],
+					[
+						"setting_sty",
+						"htdocs\\css\\v2\\settings_style.css"
+					],
+					[
+						"retweet.js",
+						"htdocs\\js\\twipple.Retweet.js"
+					],
+					[
+						"officejsp",
+						"webapps\\src\\main\\webapp\\jsp\\twipple_custom_office.jsp"
+					],
+					[
+						"v2st",
+						"htdocs\\css\\v2\\style.css"
+					],
+					[
+						"curation.",
+						"htdocs\\js\\twipple.Curation.js"
+					],
+					[
+						"v2curation",
+						"htdocs\\js\\v2\\twipple.Curation.js"
+					],
+					[
+						"twipple_",
+						"webapps\\src\\main\\webapp\\jsp\\twipple_v2.jsp"
+					],
+					[
+						"dm",
+						"htdocs\\js\\twipple.DirectMessage.js"
+					],
+					[
+						"scripts",
+						"webapps\\src\\main\\resources\\vtl\\scripts_twipple.vm"
+					],
+					[
+						"v2t",
+						"htdocs\\js\\v2\\twipple.js"
+					],
+					[
+						"ad_top_right_top",
+						"webapps\\src\\main\\resources\\vtl\\tablet\\advertisement\\ad_top_right_top.vm"
+					],
+					[
+						"header.css",
+						"htdocs\\common\\css\\header.css"
+					],
+					[
+						"header_com",
+						"webapps\\src\\main\\resources\\vtl\\header_compact.vm"
+					],
+					[
+						"header_ex",
+						"webapps\\src\\main\\resources\\vtl\\header_expand.vm"
+					],
+					[
+						"header",
+						"webapps\\src\\main\\resources\\vtl\\header.vm"
+					],
+					[
+						"fi",
+						"webapps\\src\\main\\resources\\vtl\\v2\\fixed_header.vm"
+					],
+					[
+						"init.vm",
+						"webapps\\target\\classes\\vtl\\advertisement\\ad_top_init_header.vm"
+					],
+					[
+						"web.xml",
+						"webapps\\target\\webapps\\WEB-INF\\web.xml"
+					],
+					[
+						"twipple.proper",
+						"webapps\\src\\main\\resources\\twipple.properties"
+					],
+					[
+						"tabletsetting",
+						"htdocs\\js\\tablet\\setting.js"
+					],
+					[
+						"v2userpage",
+						"htdocs\\js\\v2\\userpage\\twipple.userpage.Favorite.js"
+					],
+					[
+						"v2/twipple",
+						"htdocs\\js\\v2\\twipple.js"
+					],
+					[
+						"userpage_ta",
+						"webapps\\src\\main\\webapp\\jsp\\userpage_tablet.jsp"
+					],
+					[
+						"scripts_twipple",
+						"webapps\\target\\classes\\vtl\\scripts_twipple.vm"
+					],
+					[
+						"twipple_v2.jsp",
+						"webapps\\src\\main\\webapp\\jsp\\twipple_v2.jsp"
+					],
+					[
+						"v2twipple.li",
+						"htdocs\\js\\v2\\twipple.List.js"
+					],
+					[
+						"v2twipple.",
+						"htdocs\\js\\v2\\twipple.js"
+					],
+					[
+						"tablethome.",
+						"htdocs\\js\\tablet\\twipple.Home.js"
+					],
+					[
+						"tweet_search_top_v2",
+						"htdocs\\template\\v2\\tweet_search_top_v2.hogan"
+					],
+					[
+						"jscss",
+						"bin\\z_pika6_jscss_compressor.sh"
+					],
+					[
+						"pink",
+						"htdocs\\css\\tablet\\pink\\color_setting.css"
+					],
+					[
+						"style.css",
+						"htdocs\\css\\tablet\\style.css"
+					],
+					[
+						"direct",
+						"htdocs\\js\\tablet\\twipple.DirectMessage.js"
+					],
+					[
+						"timeline_gapbutton_v2",
+						"htdocs\\js\\templates\\pc\\v2\\tmpl_timeline_gapbutton_v2.js"
+					],
+					[
+						"gap",
+						"htdocs\\js\\templates\\pc\\v2\\tmpl_timeline_gapbutton_v2.js"
+					],
+					[
+						"curation_",
+						"htdocs\\css\\v2\\curation_popup_style.css"
+					],
+					[
+						"tweet",
+						"webapps\\src\\main\\resources\\vtl\\v2\\tweet_area.vm"
+					],
+					[
+						"tweet_area",
+						"webapps\\src\\main\\resources\\vtl\\v2\\tweet_area.vm"
+					],
+					[
+						"out_toda",
+						"htdocs\\template\\v2\\widget_out_today_v2.hogan"
+					],
+					[
+						"photo.ho",
+						"htdocs\\template\\v2\\widget_photo_v2.hogan"
+					],
+					[
+						"photo.js",
+						"htdocs\\js\\widget\\v2\\photo.js"
+					],
+					[
+						"news.js",
+						"htdocs\\js\\widget\\v2\\news.js"
+					],
+					[
+						"pom.",
+						"pom.xml"
+					],
+					[
+						"movie",
+						"htdocs\\js\\widget\\v2\\movie.js"
+					],
+					[
+						"naver",
+						"htdocs\\js\\widget\\v2\\navermatome.js"
+					],
+					[
+						"rt.js",
+						"htdocs\\js\\widget\\v2\\rt.js"
+					],
+					[
+						"photo.hoga",
+						"htdocs\\template\\v2\\widget_photo_v2.hogan"
+					],
+					[
+						"widget_com",
+						"htdocs\\template\\v2\\widget_common_v2.hogan"
+					],
+					[
+						"twipple.",
+						"htdocs\\js\\twipple.js"
+					],
+					[
+						"v2twipple.home",
+						"htdocs\\js\\v2\\twipple.Home.js"
+					],
+					[
+						"hot",
+						"htdocs\\js\\widget\\hotword.js"
+					],
+					[
+						"hotwor",
+						"htdocs\\js\\widget\\hotword.js"
+					],
+					[
+						"user_lists",
+						"htdocs\\template\\v2\\user_lists_v2.hogan"
+					],
+					[
+						"twiplpe_v2",
+						"webapps\\target\\webapps\\jsp\\twipple_v2.jsp"
+					],
+					[
+						"search.vm",
+						"webapps\\target\\classes\\vtl\\search_tweet.vm"
+					],
+					[
+						"words",
+						"htdocs\\js\\twipple.WordsOfInterest.js"
+					],
+					[
+						"sty",
+						"htdocs\\css\\v2\\style.css"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 374.0,
+				"selected_items":
+				[
+				],
+				"width": 384.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": false,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 218.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 1,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}

@@ -1,0 +1,14 @@
+{
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"ConvertToUTF8",
+		"Markdown Preview",
+		"Package Control",
+		"Pretty JSON",
+		"Theme - Flatland",
+		"Theme - Nexus"
+	]
+}
